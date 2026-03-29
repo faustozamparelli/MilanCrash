@@ -1,0 +1,9 @@
+[project]
+name = "milan-crash"
+version = "0.1.0"
+description = "Applied Statistic Project 2026/27, statistical analysis of road crashes in Italy"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=3.0.1",
+    "requests>=2.33.0",
+]
