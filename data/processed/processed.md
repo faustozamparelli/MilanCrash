@@ -108,6 +108,24 @@ Columns:
 - `Weekend mean` (`465.060`): weekend average value.
 - `Daily mean` (`424.150`): overall daily average value.
 
+## 7) milan_vehicle_fleet_cleaned.csv
+
+**Granularity:** one row per year (city-wide), split by vehicle category.
+
+Columns:
+- `Anno` (`2004`): calendar year.
+- `AUTOBUS` (`2658`): number of buses in circulation.
+- `AUTOCARRI TRASPORTO MERCI` (`65386`): number of freight trucks in circulation.
+- `AUTOVEICOLI SPECIALI - SPECIFICI` (`10574`): number of special-purpose motor vehicles.
+- `AUTOVETTURE` (`739121`): number of passenger cars in circulation.
+- `MOTOCARRI E QUADRICICLI TRASPORTO MERCI` (`1393`): number of freight motor tricycles/quadricycles.
+- `MOTOCICLI` (`115286`): number of motorcycles in circulation.
+- `MOTOVEICOLI E QUADRICICLI SPECIALI - SPECIFICI` (`370`): number of special-purpose motor tricycles/quadricycles.
+- `RIMORCHI E SEMIRIMORCHI SPECIALI - SPECIFICI` (`14837`): number of special-purpose trailers and semi-trailers.
+- `RIMORCHI E SEMIRIMORCHI TRASPORTO MERCI` (`3796`): number of freight trailers and semi-trailers.
+- `TRATTORI STRADALI O MOTRICI` (`2149`): number of road tractors/motor units.
+- `ALTRI VEICOLI` (`0`): other vehicle classes.
+
 ## Common Processing Notes
 
 - Empty strings are converted to missing values (`NA`).
@@ -117,8 +135,11 @@ Columns:
 - In `euda_wastewater_ww2026_all_cities_cleaned.csv`, `Year` is parsed as numeric `Int64` and daily/mean wastewater fields are parsed as numeric (float-like) values.
 - In `euda_wastewater_ww2026_all_cities_cleaned.csv`, string ID fields (`Metabolite`, `Site ID`, `Country`, `City`) are stripped of extra spaces and empty values are set to `NA`.
 - In `euda_wastewater_ww2026_all_cities_cleaned.csv`, rows are deduplicated and sorted by `Year`, `Country`, `City`, `Metabolite`.
+- In `milan_vehicle_fleet_cleaned.csv`, column names are normalized to remove non-breaking spaces and extra internal whitespace.
+- In `milan_vehicle_fleet_cleaned.csv`, `Anno` and all measure columns are parsed as numeric `Int64`, deduplicated, and sorted by `Anno`.
 - Duplicate rows are removed.
 - `month_start` is derived from `Anno` + `Mese` with day fixed to `1`.
 - Crash cleaning is performed in `MilanCrashesProcessing.ipynb`.
 - Wastewater cleaning is performed in `DrugUseProcessing.ipynb`.
+- Vehicle fleet cleaning is performed in `VehiclesProcessing.ipynb`.
 - Correlation study is performed in `CrashDrugUse.ipynb` and does not persist analysis outputs to `data/processed/`.
