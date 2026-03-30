@@ -6,6 +6,6 @@ __pycache__/
 
 # Keep folder structure, ignore local datasets
 data/raw/*
-!data/raw/.gitkeep
+!data/raw/raw.md
 data/processed/*
-!data/processed/.gitkeep
+!data/processed/processed.md
