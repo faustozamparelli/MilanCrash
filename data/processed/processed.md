@@ -73,7 +73,6 @@ Columns:
 - `mortiND` (`0`): deaths where vehicle-count class is unknown.
 - `feritiND` (`0`): injuries where vehicle-count class is unknown.
 - `month_start` (`2001-01-01`): first day of the month as date (`YYYY-MM-01`).
-- `incidenti_tot_veicoli` (`1233`): total crashes from all vehicle-count classes (sum of all columns starting with `incidenti`).
 
 ## 5) milan_crashes_by_zone_cleaned.csv
 
@@ -88,23 +87,26 @@ Columns:
 - `Morti` (`0`): number of killed people in that month and municipality.
 - `month_start` (`2001-01-01`): first day of the month as date (`YYYY-MM-01`).
 
-## 6) milan_crashes_monthly_features.csv
+## 6) euda_wastewater_ww2026_all_cities_cleaned.csv
 
-**Granularity:** one row per month (city-wide), with engineered features.
+**Granularity:** one row per source record from the EUDA wastewater file (all cities), typically one site-metabolite-week snapshot in a given year.
 
 Columns:
-- `Anno` (`2001`): calendar year.
-- `Mese` (`1`): month number (1-12).
-- `IncidentiMortali` (`8`): number of fatal crashes in the month.
-- `IncidentiSoliFeriti` (`1225`): number of crashes with injuries only.
-- `Morti` (`8`): total people killed in the month.
-- `Feriti` (`1690`): total people injured in the month.
-- `month_start` (`2001-01-01`): first day of the month as date (`YYYY-MM-01`).
-- `IncidentiTotali` (`1233`): total monthly crashes, computed as `IncidentiMortali + IncidentiSoliFeriti`.
-- `morti_per_100_incidenti` (`0.649`): deaths per 100 crashes, computed as `100 * Morti / IncidentiTotali`.
-- `feriti_per_incidente` (`1.371`): average injuries per crash, computed as `Feriti / IncidentiTotali`.
-- `is_summer` (`0`): seasonal flag, `1` if month is June/July/August, else `0`.
-- `is_winter` (`1`): seasonal flag, `1` if month is December/January/February, else `0`.
+- `Year` (`2025`): calendar year.
+- `Metabolite` (`cocaine`): metabolite/drug category.
+- `Site ID` (`IT003`): sampling site identifier.
+- `Country` (`IT`): country code.
+- `City` (`Milan`): city label from source.
+- `Wednesday` (`358.140`): measured value for Wednesday in the observed week.
+- `Thursday` (`312.060`): measured value for Thursday in the observed week.
+- `Friday` (`347.700`): measured value for Friday in the observed week.
+- `Saturday` (`489.250`): measured value for Saturday in the observed week.
+- `Sunday` (`440.870`): measured value for Sunday in the observed week.
+- `Monday` (`487.530`): measured value for Monday in the observed week.
+- `Tuesday` (`533.190`): measured value for Tuesday in the observed week.
+- `Weekday mean` (`369.590`): weekday average value.
+- `Weekend mean` (`465.060`): weekend average value.
+- `Daily mean` (`424.150`): overall daily average value.
 
 ## Common Processing Notes
 
@@ -112,6 +114,11 @@ Columns:
 - `Anno` and `Mese` are parsed as numeric integer-like columns.
 - In `milan_crashes_by_zone_cleaned.csv`, `Municipio` is explicitly coerced to numeric integer-like (`Int64`) values.
 - Numeric measure columns are rounded and stored as integer-like values where possible.
+- In `euda_wastewater_ww2026_all_cities_cleaned.csv`, `Year` is parsed as numeric `Int64` and daily/mean wastewater fields are parsed as numeric (float-like) values.
+- In `euda_wastewater_ww2026_all_cities_cleaned.csv`, string ID fields (`Metabolite`, `Site ID`, `Country`, `City`) are stripped of extra spaces and empty values are set to `NA`.
+- In `euda_wastewater_ww2026_all_cities_cleaned.csv`, rows are deduplicated and sorted by `Year`, `Country`, `City`, `Metabolite`.
 - Duplicate rows are removed.
 - `month_start` is derived from `Anno` + `Mese` with day fixed to `1`.
-- Type coercion/cleaning is performed in `Processed.ipynb`; `Trends.ipynb` is intended to validate schema/types and analyze preprocessed data.
+- Crash cleaning is performed in `MilanCrashesProcessing.ipynb`.
+- Wastewater cleaning is performed in `DrugUseProcessing.ipynb`.
+- Correlation study is performed in `CrashDrugUse.ipynb` and does not persist analysis outputs to `data/processed/`.

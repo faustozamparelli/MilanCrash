@@ -26,3 +26,15 @@
 - Finding: For citywide resolved total crashes per km2, October is highest (6.1852) and August is lowest (2.8968). For fatalities (Morti) per km2, October is highest (0.0365) and July is lowest (0.0152). Fatality intensity relative to normalized crashes is highest in August (5.4967 per 1000).
 - Conclusion: Seasonality differs by metric: late autumn has the highest overall burden, while summer has fewer crashes but not proportionally fewer deadly outcomes.
 - Hypothesis: August likely has lower traffic volume (fewer crashes) but a higher severity mix, possibly related to higher average speed on emptier roads, alcohol/night-driving exposure, tourism travel, or heat/fatigue effects.
+
+## CrashDrugUse.ipynb
+
+- Q: Which crash-drug yearly correlations are statistically relevant for Milan?
+- Method: Pearson correlation on yearly merged data (2011-2024, min shared years n>=5), with two-sided permutation p-values (5,000 shuffles) and relevance threshold p<0.05.
+- Finding: Statistically relevant pairs are all negative and involve non-fatal or total crashes.
+- Significant pair: non_fatal_crashes vs cocaine (r=-0.717, n=14, p=0.0014).
+- Significant pair: total_crashes vs cocaine (r=-0.716, n=14, p=0.0022).
+- Significant pair: non_fatal_crashes vs cannabis (r=-0.764, n=10, p=0.0076).
+- Significant pair: total_crashes vs cannabis (r=-0.763, n=10, p=0.0082).
+- Conclusion: In the available yearly overlap, higher measured cocaine/cannabis wastewater levels are associated with lower non-fatal and total crash counts; fatal-crash links are not statistically relevant under this threshold.
+- Hypothesis: The inverse association may reflect confounding trends (post-2010 urban mobility changes, enforcement, reporting dynamics, exposure shifts) rather than a direct protective effect; this should be treated as correlation-only evidence.
