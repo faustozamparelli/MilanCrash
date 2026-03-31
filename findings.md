@@ -38,3 +38,28 @@
 - Significant pair: total_crashes vs cannabis (r=-0.763, n=10, p=0.0082).
 - Conclusion: In the available yearly overlap, higher measured cocaine/cannabis wastewater levels are associated with lower non-fatal and total crash counts; fatal-crash links are not statistically relevant under this threshold.
 - Hypothesis: The inverse association may reflect confounding trends (post-2010 urban mobility changes, enforcement, reporting dynamics, exposure shifts) rather than a direct protective effect; this should be treated as correlation-only evidence.
+
+## Fleet.ipynb
+
+- Q: Are Milan fleet levels and composition statistically associated with crash burden when trend effects are accounted for?
+- Method: Yearly merge of `milan_vehicle_fleet_cleaned.csv` with yearly crash totals aggregated from `milan_crashes_monthly_cleaned.csv` (2004-2022 overlap, n=18, missing 2009). Inference uses two-sided permutation p-values for Pearson/Spearman correlations, year-controlled partial correlations, annualized first-difference checks, and year-slope tests with bootstrap confidence intervals.
+
+- Finding: Raw yearly correlations for total crashes are strong and opposite by fleet composition: fleet_cars (r=0.943, p=0.0001), fleet_motorcycles (r=-0.958, p=0.0001), fleet_heavy_goods (r=0.638, p=0.0042), while fleet_total is weaker (r=0.410, p=0.0897).
+- Conclusion: Raw associations are not sufficient for interpretation because several variables share strong long-run time trends.
+- Hypothesis: Opposite secular trajectories (declining cars, rising motorcycles, declining crashes) mechanically inflate naive correlations.
+
+- Finding: After controlling for year, total crashes remain associated with fleet_total (partial r=0.563, p=0.0165), fleet_heavy_goods (partial r=0.574, p=0.0129), and motorcycle_share (partial r=-0.509, p=0.0306), while fleet_cars is borderline/non-significant (partial r=0.447, p=0.0638).
+- Conclusion: Part of the fleet-crash relationship survives simple linear trend control, but effect strength depends on variable choice and should be treated as associative, not causal.
+- Hypothesis: Fleet structure shifts and broader mobility/system changes likely move together with crashes, creating residual associations even after linear detrending.
+
+- Finding: In annualized first differences (n=17), no fleet-crash pair reaches p<0.05; strongest are d_deaths vs d_fleet_heavy_goods (r=0.401, p=0.1157) and d_fatal_crashes vs d_fleet_heavy_goods (r=0.398, p=0.1175).
+- Conclusion: Short-run year-to-year co-movement evidence is weak, reducing support for immediate direct coupling between annual fleet changes and annual crash changes.
+- Hypothesis: Yearly crash fluctuations may be driven more by policy, exposure conditions, enforcement, and exogenous shocks than by same-year fleet deltas alone.
+
+- Finding: Exposure-adjusted crash risk declines strongly over time: total_crashes slope=-538.2298/year (p=0.0001; 95% CI [-634.7469, -447.9961]); crashes_per_10k_fleet slope=-5.5397/year (p=0.0001; 95% CI [-6.4867, -4.6522]); fatal_crashes_per_100k_fleet slope=-0.2817/year (p=0.0001; 95% CI [-0.3572, -0.2003]); deaths_per_100k_fleet slope=-0.2988/year (p=0.0001; 95% CI [-0.3771, -0.2117]).
+- Conclusion: The statistically strongest fleet-linked result is not a positive fleet-growth risk effect, but a sustained decline in crash burden per unit of registered fleet.
+- Hypothesis: Safety technology improvements, infrastructure changes, enforcement, and behavior adaptation likely outpaced risk from fleet expansion/composition changes over this period.
+
+- Finding: Sensitivity checks show instability across subperiods. For total crashes and motorcycle_share, pre-covid is strong (partial r=-0.7076, p=0.0034) but post-2010 is null (partial r=-0.0041, p=0.9873); fleet_heavy_goods remains significant post-2010 (partial r=0.5806, p=0.0339).
+- Conclusion: Subperiod instability suggests structural breaks and cautions against a single stationary fleet-crash relationship for 2004-2022.
+- Hypothesis: Pandemic-era and late-2010 mobility regime changes likely altered the relationship between fleet composition and crash outcomes.
