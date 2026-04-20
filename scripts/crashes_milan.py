@@ -86,6 +86,10 @@ def infer_extension(resource: dict) -> str:
 
 
 def download(url: str, dest: Path):
+    headers = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "*/*"
+}
     with requests.get(url, stream=True, timeout=TIMEOUT) as r:
         r.raise_for_status()
         with open(dest, 'wb') as f:
