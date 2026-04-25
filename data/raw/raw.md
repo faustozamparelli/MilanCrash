@@ -3,6 +3,7 @@
 Scope: this file tracks the original raw inputs and the exact cleaning logic currently used in notebooks/MilanCrashesProcessing.ipynb, notebooks/DrugUseProcessing.ipynb, and notebooks/VehiclesProcessing.ipynb.
 
 ## Raw files and columns
+All files have a Year column and all starting with milan except milan_vehicle_fleet have a Month column.
 
 ### 1) milan_crashes_monthly.csv
 - Anno
