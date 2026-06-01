@@ -20,4 +20,5 @@ uv run python scripts/vehicle_fleet_milan.py
 7. Run [DrugUseProcessing](./notebooks/DrugUseProcessing.ipynb) to populate cleaned wastewater mirror data in ./data/processed/
 8. Run [VehiclesProcessing](./notebooks/VehiclesProcessing.ipynb) to populate cleaned vehicle fleet mirror data in ./data/processed/
 9. Run [CrashDrugUse](./notebooks/CrashDrugUse.ipynb) to analyze yearly crash-drug correlations with tables/plots 
-10. Run [Cerchie](./notebooks/Cerchie.ipynb) to analyze crash patterns by city ring with tables/plots    
+10. Run [AreaCProcessing](./notebooks/cleaning/AreaCProcessing.ipynb) to download Area C accesses and build `data/processed/milan_crashes_city_ring_area_c_exposure.csv`
+11. Run [Cerchie](./notebooks/Cerchie.ipynb) to analyze crash patterns by city ring with tables/plots    

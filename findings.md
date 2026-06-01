@@ -107,3 +107,10 @@ These bound how far the above findings should be extrapolated.
 - **Observational design.** Every statistic here is observational. Survival of the robustness battery is necessary but not sufficient for causal claims; unmeasured confounders (enforcement intensity, infrastructure investments, under-reporting shifts) remain.
 - **Area approximations.** Two of the four ring areas are approximations (21.33 and 150.84 km2). Per-km2 rankings within +/-10% of a tied pair should be read cautiously; the Mura-Nuova lead over Entro on total/km2 is well outside that band, so the ranking is not sensitive to area uncertainty.
 - **Class imbalance in CrashType.** The target distribution is heavy-tailed; macro-F1 is the right metric but even a well-calibrated model inherits the imbalance. The temporal-holdout numbers should be read as a ceiling on current-feature-set performance, not on crash-type modelling in principle.
+
+## Area C Exposure Check
+
+- Question: Does Area C exposure change how we read central-ring crash counts?
+- Conclusion: Yes, but only for the rings inside the Mura Spagnole. After merging Area C monthly accesses as a central-area exposure proxy, Dalla Cerchia dei Navigli alle Mura Spagnole still has a higher crash burden than Entro la Cerchia dei Navigli: 1.27 versus 0.64 mean monthly crashes per 100,000 Area C accesses.
+- Hypothesis: Even after accounting for vehicles entering Area C, the Navigli-to-Mura-Spagnole ring has more conflict points or higher residual street risk than the innermost ring.
+- Finding: `milan_crashes_city_ring_area_c_exposure.csv` contains 306 central-ring rows with Area C exposure from 2012-01 to 2024-11. Mean monthly incidents per 100,000 Area C accesses are 1.272 for Dalla Cerchia dei Navigli alle Mura Spagnole and 0.640 for Entro la Cerchia dei Navigli. Area C is not used as an exposure denominator for outer rings or citywide notebooks.
