@@ -1,0 +1,7 @@
+Dataset generati per progetto ISTAT incidenti 2007-2024
+Wide rows: 1149, columns: 30
+Long rows: 4596, columns: 12
+Anni: 2007-2024
+
+Colonne chiave preservate nel wide:
+incidenti, morti_conducenti, feriti_conducenti, morti_trasportati, feriti_trasportati, morti_pedoni, feriti_pedoni, morti_totale, feriti_totale
