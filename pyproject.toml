@@ -2,7 +2,7 @@
 name = "milan-crash"
 version = "0.1.0"
 description = "Applied Statistic Project 2026/27, statistical analysis of road crashes in Italy"
-requires-python = ">=3.13"
+requires-python = "~=3.14.0"
 dependencies = [
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
@@ -12,4 +12,9 @@ dependencies = [
     "scipy>=1.17.1",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.6",
+]
+
+[dependency-groups]
+dev = [
+    "nbconvert>=7.17.1",
 ]
