@@ -1,0 +1,2591 @@
+Anno;Mese;NaturaIncidente;Incidenti;Feriti;Morti
+2023;6;Investimento pedone;67;81;0
+2023;6;Scontro frontale;14;20;0
+2023;6;Scontro frontale-laterale;227;290;1
+2023;6;Scontro laterale;86;98;0
+2023;6;Tamponamento;77;93;0
+2023;6;Urto con ostacolo;55;61;0
+2023;6;Urto con veicolo in fermata o sosta;69;75;0
+2023;7;Altre cause;8;9;0
+2023;7;Fuoriuscita, sbandamento;83;87;0
+2023;7;Investimento pedone;66;70;2
+2023;7;Scontro frontale;8;12;0
+2023;7;Scontro frontale-laterale;166;244;0
+2023;7;Scontro laterale;70;76;0
+2023;7;Tamponamento;64;81;0
+2023;7;Urto con ostacolo;47;54;0
+2023;7;Urto con veicolo in fermata o sosta;46;55;0
+2023;8;Altre cause;1;1;0
+2023;8;Fuoriuscita, sbandamento;62;66;0
+2023;8;Investimento pedone;43;49;1
+2023;8;Scontro frontale;3;3;0
+2023;8;Scontro frontale-laterale;142;205;1
+2023;8;Scontro laterale;40;48;0
+2023;8;Tamponamento;35;46;1
+2023;8;Urto con ostacolo;33;37;1
+2023;8;Urto con veicolo in fermata o sosta;32;48;0
+2023;9;Altre cause;10;10;0
+2023;9;Fuoriuscita, sbandamento;103;112;0
+2023;9;Investimento pedone;93;103;3
+2023;9;Scontro frontale;9;11;0
+2023;9;Scontro frontale-laterale;213;298;2
+2023;9;Scontro laterale;81;94;0
+2023;9;Tamponamento;67;93;1
+2023;9;Urto con ostacolo;45;52;0
+2023;9;Urto con veicolo in fermata o sosta;65;78;1
+2023;10;Altre cause;7;7;0
+2023;10;Fuoriuscita, sbandamento;102;109;0
+2023;10;Investimento pedone;111;129;5
+2023;10;Scontro frontale;12;18;0
+2023;10;Scontro frontale-laterale;238;325;1
+2023;10;Scontro laterale;98;112;0
+2023;10;Tamponamento;57;87;0
+2023;10;Urto con ostacolo;58;66;0
+2023;10;Urto con veicolo in fermata o sosta;72;82;0
+2023;11;Altre cause;5;4;1
+2023;11;Fuoriuscita, sbandamento;92;99;1
+2023;11;Investimento pedone;115;138;0
+2023;11;Scontro frontale;10;20;0
+2023;11;Scontro frontale-laterale;240;300;0
+2023;11;Scontro laterale;72;80;0
+2023;11;Tamponamento;60;91;2
+2023;11;Urto con ostacolo;51;54;0
+2023;11;Urto con veicolo in fermata o sosta;46;61;0
+2023;12;Altre cause;4;4;0
+2023;12;Fuoriuscita, sbandamento;74;79;0
+2023;12;Investimento pedone;105;123;0
+2023;12;Scontro frontale;11;16;0
+2023;12;Scontro frontale-laterale;177;227;0
+2023;12;Scontro laterale;58;71;0
+2023;12;Tamponamento;45;62;0
+2023;12;Urto con ostacolo;38;42;0
+2023;12;Urto con veicolo in fermata o sosta;43;51;1
+2024;1;Altre cause;3;3;0
+2024;1;Fuoriuscita, sbandamento;85;91;0
+2024;1;Investimento pedone;98;111;0
+2024;1;Scontro frontale;6;9;0
+2024;1;Scontro frontale-laterale;178;250;1
+2024;1;Scontro laterale;47;58;0
+2024;1;Tamponamento;58;76;0
+2024;1;Urto con ostacolo;43;52;0
+2024;1;Urto con veicolo in fermata o sosta;55;63;0
+2024;2;Altre cause;3;4;0
+2024;2;Fuoriuscita, sbandamento;65;72;0
+2024;2;Investimento pedone;91;101;1
+2024;2;Scontro frontale;10;11;0
+2024;2;Scontro frontale-laterale;171;232;0
+2024;2;Scontro laterale;58;66;0
+2024;2;Tamponamento;50;83;0
+2024;2;Urto con ostacolo;47;53;0
+2024;2;Urto con veicolo in fermata o sosta;55;63;0
+2024;3;Altre cause;11;14;0
+2024;3;Fuoriuscita, sbandamento;58;61;0
+2024;3;Investimento pedone;96;111;0
+2024;3;Scontro frontale;12;14;0
+2024;3;Scontro frontale-laterale;203;264;1
+2024;3;Scontro laterale;61;68;0
+2024;3;Tamponamento;74;103;0
+2024;3;Urto con ostacolo;64;71;0
+2024;3;Urto con veicolo in fermata o sosta;56;62;1
+2024;4;Altre cause;1;1;0
+2024;4;Fuoriuscita, sbandamento;74;82;1
+2024;4;Investimento pedone;88;104;2
+2024;4;Scontro frontale;8;12;0
+2024;4;Scontro frontale-laterale;211;291;1
+2024;4;Scontro laterale;76;85;0
+2024;4;Tamponamento;62;92;0
+2024;4;Urto con ostacolo;43;53;0
+2024;4;Urto con veicolo in fermata o sosta;50;64;0
+2024;5;Altre cause;2;2;0
+2024;5;Fuoriuscita, sbandamento;87;90;0
+2024;5;Investimento pedone;93;102;2
+2024;5;Scontro frontale;7;13;0
+2024;5;Scontro frontale-laterale;219;296;0
+2024;5;Scontro laterale;78;86;1
+2024;5;Tamponamento;68;88;0
+2024;5;Urto con ostacolo;74;89;1
+2024;5;Urto con veicolo in fermata o sosta;64;75;0
+2024;6;Altre cause;5;5;0
+2024;6;Fuoriuscita, sbandamento;92;95;0
+2024;6;Investimento pedone;91;109;0
+2024;6;Scontro frontale;10;15;0
+2024;6;Scontro frontale-laterale;204;294;1
+2024;6;Scontro laterale;72;83;1
+2024;6;Tamponamento;87;106;1
+2024;6;Urto con ostacolo;68;76;2
+2024;6;Urto con veicolo in fermata o sosta;44;55;1
+2024;7;Altre cause;9;10;0
+2022;5;Scontro frontale;6;10;0
+2022;5;Scontro frontale-laterale;249;379;0
+2022;5;Scontro laterale;84;98;0
+2022;5;Tamponamento;61;97;0
+2022;5;Urto con ostacolo;51;54;0
+2022;5;Urto con veicolo in fermata o sosta;77;94;0
+2022;6;Altre cause;3;3;0
+2022;6;Fuoriuscita, sbandamento;115;123;0
+2022;6;Investimento pedone;97;114;0
+2022;6;Scontro frontale;19;28;0
+2022;6;Scontro frontale-laterale;240;335;0
+2022;6;Scontro laterale;92;101;0
+2022;6;Tamponamento;75;117;0
+2022;6;Urto con ostacolo;53;54;1
+2022;6;Urto con veicolo in fermata o sosta;66;78;0
+2022;7;Altre cause;6;6;0
+2022;7;Fuoriuscita, sbandamento;90;95;1
+2022;7;Investimento pedone;61;73;2
+2022;7;Scontro frontale;11;13;0
+2022;7;Scontro frontale-laterale;238;326;0
+2022;7;Scontro laterale;87;113;0
+2022;7;Tamponamento;54;66;1
+2022;7;Urto con ostacolo;42;53;0
+2022;7;Urto con veicolo in fermata o sosta;56;64;0
+2022;8;Altre cause;4;8;0
+2022;8;Fuoriuscita, sbandamento;59;66;0
+2022;8;Investimento pedone;38;48;2
+2022;8;Scontro frontale;8;13;0
+2022;8;Scontro frontale-laterale;143;203;1
+2022;8;Scontro laterale;42;50;0
+2022;8;Tamponamento;28;44;0
+2022;8;Urto con ostacolo;32;35;2
+2022;8;Urto con veicolo in fermata o sosta;35;47;0
+2022;9;Altre cause;6;14;0
+2022;9;Fuoriuscita, sbandamento;93;98;2
+2022;9;Investimento pedone;112;138;4
+2022;9;Scontro frontale;16;26;0
+2022;9;Scontro frontale-laterale;237;316;0
+2022;9;Scontro laterale;71;81;0
+2022;9;Tamponamento;64;84;0
+2022;9;Urto con ostacolo;52;61;1
+2022;9;Urto con veicolo in fermata o sosta;68;80;0
+2022;10;Altre cause;7;8;0
+2022;10;Fuoriuscita, sbandamento;86;91;0
+2022;10;Investimento pedone;108;123;1
+2022;10;Scontro frontale;9;11;0
+2022;10;Scontro frontale-laterale;274;349;0
+2022;10;Scontro laterale;82;102;0
+2022;10;Tamponamento;68;107;0
+2022;10;Urto con ostacolo;49;68;1
+2022;10;Urto con veicolo in fermata o sosta;75;87;0
+2022;11;Altre cause;9;10;0
+2022;11;Fuoriuscita, sbandamento;110;112;1
+2022;11;Investimento pedone;129;150;1
+2022;11;Scontro frontale;12;16;0
+2022;11;Scontro frontale-laterale;201;267;3
+2022;11;Scontro laterale;67;78;0
+2022;11;Tamponamento;56;86;0
+2022;11;Urto con ostacolo;40;56;0
+2022;11;Urto con veicolo in fermata o sosta;58;71;0
+2022;12;Altre cause;5;7;0
+2022;12;Fuoriuscita, sbandamento;62;62;1
+2022;12;Investimento pedone;95;108;1
+2022;12;Scontro frontale;5;9;1
+2022;12;Scontro frontale-laterale;209;287;0
+2022;12;Scontro laterale;43;50;0
+2022;12;Tamponamento;43;65;0
+2022;12;Urto con ostacolo;48;54;2
+2022;12;Urto con veicolo in fermata o sosta;32;38;0
+2023;1;Altre cause;4;5;0
+2023;1;Fuoriuscita, sbandamento;83;86;0
+2023;1;Investimento pedone;141;166;0
+2023;1;Scontro frontale;15;21;0
+2023;1;Scontro frontale-laterale;150;211;0
+2023;1;Scontro laterale;46;53;0
+2023;1;Tamponamento;44;66;0
+2023;1;Urto con ostacolo;30;34;2
+2023;1;Urto con veicolo in fermata o sosta;44;56;0
+2023;2;Altre cause;6;7;0
+2023;2;Fuoriuscita, sbandamento;82;84;1
+2023;2;Investimento pedone;92;107;2
+2023;2;Scontro frontale;10;11;0
+2023;2;Scontro frontale-laterale;200;281;2
+2023;2;Scontro laterale;70;83;0
+2023;2;Tamponamento;58;73;1
+2023;2;Urto con ostacolo;43;49;0
+2023;2;Urto con veicolo in fermata o sosta;44;52;0
+2023;3;Altre cause;2;3;0
+2023;3;Fuoriuscita, sbandamento;84;90;0
+2023;3;Investimento pedone;110;136;3
+2023;3;Scontro frontale;17;25;0
+2023;3;Scontro frontale-laterale;226;297;1
+2023;3;Scontro laterale;97;116;0
+2023;3;Tamponamento;49;72;0
+2023;3;Urto con ostacolo;44;56;0
+2023;3;Urto con veicolo in fermata o sosta;48;63;0
+2023;4;Altre cause;6;6;0
+2023;4;Fuoriuscita, sbandamento;62;66;0
+2023;4;Investimento pedone;82;97;1
+2023;4;Scontro frontale;9;13;1
+2023;4;Scontro frontale-laterale;205;278;1
+2023;4;Scontro laterale;68;79;1
+2023;4;Tamponamento;80;111;0
+2023;4;Urto con ostacolo;28;31;0
+2023;4;Urto con veicolo in fermata o sosta;66;80;0
+2023;5;Altre cause;8;8;0
+2023;5;Fuoriuscita, sbandamento;104;114;0
+2023;5;Investimento pedone;109;125;0
+2023;5;Scontro frontale;13;21;0
+2023;5;Scontro frontale-laterale;256;342;1
+2023;5;Scontro laterale;85;96;0
+2023;5;Tamponamento;77;100;0
+2023;5;Urto con ostacolo;48;52;1
+2023;5;Urto con veicolo in fermata o sosta;64;72;0
+2023;6;Altre cause;9;10;0
+2023;6;Fuoriuscita, sbandamento;109;121;0
+2024;7;Fuoriuscita, sbandamento;82;87;0
+2024;7;Investimento pedone;68;82;0
+2024;7;Scontro frontale;8;11;0
+2024;7;Scontro frontale-laterale;216;296;1
+2024;7;Scontro laterale;67;82;0
+2024;7;Tamponamento;71;94;0
+2024;7;Urto con ostacolo;60;72;0
+2024;7;Urto con veicolo in fermata o sosta;52;63;1
+2024;8;Altre cause;4;4;0
+2024;8;Fuoriuscita, sbandamento;62;65;0
+2024;8;Investimento pedone;34;39;1
+2024;8;Scontro frontale;6;18;0
+2024;8;Scontro frontale-laterale;134;183;0
+2024;8;Scontro laterale;43;49;0
+2024;8;Tamponamento;36;41;0
+2024;8;Urto con ostacolo;45;48;0
+2024;8;Urto con veicolo in fermata o sosta;33;39;2
+2024;9;Altre cause;7;9;0
+2024;9;Fuoriuscita, sbandamento;100;110;0
+2024;9;Investimento pedone;90;105;0
+2024;9;Scontro frontale;17;19;0
+2024;9;Scontro frontale-laterale;263;371;0
+2024;9;Scontro laterale;78;92;0
+2024;9;Tamponamento;54;73;0
+2024;9;Urto con ostacolo;56;64;0
+2024;9;Urto con veicolo in fermata o sosta;56;63;1
+2024;10;Altre cause;5;6;0
+2024;10;Fuoriuscita, sbandamento;108;109;0
+2024;10;Investimento pedone;152;191;1
+2024;10;Scontro frontale;18;21;0
+2024;10;Scontro frontale-laterale;211;283;1
+2024;10;Scontro laterale;66;72;0
+2024;10;Tamponamento;69;90;0
+2024;10;Urto con ostacolo;65;69;0
+2024;10;Urto con veicolo in fermata o sosta;59;65;1
+2024;11;Altre cause;8;9;0
+2024;11;Fuoriuscita, sbandamento;92;95;1
+2024;11;Investimento pedone;118;141;0
+2024;11;Scontro frontale;12;17;0
+2024;11;Scontro frontale-laterale;241;305;1
+2024;11;Scontro laterale;81;90;1
+2024;11;Tamponamento;62;81;1
+2024;11;Urto con ostacolo;66;82;1
+2024;11;Urto con veicolo in fermata o sosta;44;62;0
+2024;12;Altre cause;6;6;0
+2024;12;Fuoriuscita, sbandamento;80;86;0
+2024;12;Investimento pedone;115;137;2
+2024;12;Scontro frontale;12;18;0
+2024;12;Scontro frontale-laterale;193;258;1
+2024;12;Scontro laterale;52;55;0
+2024;12;Tamponamento;55;76;0
+2024;12;Urto con ostacolo;76;86;3
+2024;12;Urto con veicolo in fermata o sosta;49;56;0
+2001;1;Altre cause;37;37;0
+2001;1;Fuoriuscita, sbandamento;62;67;0
+2001;1;Investimento pedone;204;232;4
+2001;1;Scontro frontale;32;49;1
+2001;1;Scontro frontale - laterale;482;758;1
+2001;1;Scontro laterale;66;75;1
+2001;1;Tamponamento;151;227;0
+2001;1;Urto con ostacolo;86;99;1
+2001;1;Urto con veicolo in fermata o sosta;113;146;0
+2001;2;Altre cause;43;47;0
+2001;2;Fuoriuscita, sbandamento;50;54;0
+2001;2;Investimento pedone;147;169;4
+2001;2;Scontro frontale;32;52;0
+2001;2;Scontro frontale - laterale;483;734;3
+2001;2;Scontro laterale;107;127;0
+2001;2;Tamponamento;137;193;1
+2001;2;Urto con ostacolo;58;68;1
+2001;2;Urto con veicolo in fermata o sosta;131;172;2
+2001;3;Altre cause;36;39;0
+2001;3;Fuoriuscita, sbandamento;62;66;0
+2001;3;Investimento pedone;198;224;2
+2001;3;Scontro frontale;39;64;0
+2001;3;Scontro frontale - laterale;560;874;2
+2001;3;Scontro laterale;131;146;0
+2001;3;Tamponamento;182;296;0
+2001;3;Urto con ostacolo;69;80;2
+2001;3;Urto con veicolo in fermata o sosta;142;188;1
+2001;4;Altre cause;40;46;0
+2001;4;Fuoriuscita, sbandamento;74;85;0
+2001;4;Investimento pedone;119;137;3
+2001;4;Scontro frontale;37;46;1
+2001;4;Scontro frontale - laterale;548;845;1
+2001;4;Scontro laterale;165;183;1
+2001;4;Tamponamento;178;278;0
+2001;4;Urto con ostacolo;64;81;1
+2001;4;Urto con veicolo in fermata o sosta;144;203;1
+2001;5;Altre cause;37;40;0
+2001;5;Fuoriuscita, sbandamento;109;121;0
+2001;5;Investimento pedone;193;222;1
+2001;5;Scontro frontale;45;69;1
+2001;5;Scontro frontale - laterale;616;929;1
+2001;5;Scontro laterale;208;248;0
+2001;5;Tamponamento;214;369;0
+2001;5;Urto con ostacolo;94;109;0
+2001;5;Urto con veicolo in fermata o sosta;181;246;1
+2001;6;Altre cause;73;80;0
+2001;6;Fuoriuscita, sbandamento;119;137;0
+2001;6;Investimento pedone;205;257;2
+2001;6;Scontro frontale;39;47;1
+2001;6;Scontro frontale - laterale;701;1044;1
+2001;6;Scontro laterale;207;244;4
+2001;6;Tamponamento;223;328;0
+2001;6;Urto con ostacolo;82;95;1
+2001;6;Urto con veicolo in fermata o sosta;193;274;0
+2001;7;Altre cause;72;82;0
+2001;7;Fuoriuscita, sbandamento;110;119;0
+2001;7;Investimento pedone;147;186;3
+2001;7;Scontro frontale;37;54;0
+2001;7;Scontro frontale - laterale;647;915;5
+2001;7;Scontro laterale;192;227;0
+2001;7;Tamponamento;202;312;0
+2001;7;Urto con ostacolo;92;117;1
+2001;7;Urto con veicolo in fermata o sosta;158;211;0
+2001;8;Altre cause;40;43;0
+2001;8;Fuoriuscita, sbandamento;50;58;1
+2001;8;Investimento pedone;62;77;0
+2001;8;Scontro frontale;20;31;0
+2001;8;Scontro frontale - laterale;346;552;2
+2001;8;Scontro laterale;80;97;1
+2001;8;Tamponamento;110;184;0
+2001;8;Urto con ostacolo;58;68;3
+2001;8;Urto con veicolo in fermata o sosta;82;111;0
+2001;9;Altre cause;70;81;0
+2001;9;Fuoriuscita, sbandamento;92;100;1
+2001;9;Investimento pedone;134;166;1
+2001;9;Scontro frontale;28;41;1
+2001;9;Scontro frontale - laterale;574;884;0
+2001;9;Scontro laterale;184;212;2
+2001;9;Tamponamento;194;309;1
+2001;9;Urto con ostacolo;56;80;0
+2001;9;Urto con veicolo in fermata o sosta;159;202;0
+2001;10;Altre cause;49;55;0
+2001;10;Fuoriuscita, sbandamento;90;97;0
+2001;10;Investimento pedone;191;229;1
+2001;10;Scontro frontale;44;65;1
+2001;10;Scontro frontale - laterale;669;977;0
+2001;10;Scontro laterale;196;230;1
+2001;10;Tamponamento;197;299;2
+2001;10;Urto con ostacolo;62;79;0
+2001;10;Urto con veicolo in fermata o sosta;177;231;1
+2001;11;Altre cause;50;53;0
+2001;11;Fuoriuscita, sbandamento;91;95;0
+2001;11;Investimento pedone;192;217;6
+2001;11;Scontro frontale;35;54;0
+2001;11;Scontro frontale - laterale;656;978;0
+2001;11;Scontro laterale;161;183;0
+2001;11;Tamponamento;188;323;0
+2001;11;Urto con ostacolo;60;75;0
+2001;11;Urto con veicolo in fermata o sosta;150;192;0
+2001;12;Altre cause;55;55;0
+2001;12;Fuoriuscita, sbandamento;113;119;1
+2001;12;Investimento pedone;197;233;1
+2001;12;Scontro frontale;36;57;0
+2001;12;Scontro frontale - laterale;573;859;2
+2001;12;Scontro laterale;107;121;0
+2001;12;Tamponamento;161;260;0
+2001;12;Urto con ostacolo;79;107;0
+2001;12;Urto con veicolo in fermata o sosta;135;190;1
+2002;1;Altre cause;44;47;0
+2002;1;Fuoriuscita, sbandamento;85;94;0
+2002;1;Investimento pedone;143;159;4
+2002;1;Scontro frontale;30;42;0
+2002;1;Scontro frontale - laterale;461;692;2
+2002;1;Scontro laterale;107;124;1
+2002;1;Tamponamento;152;239;0
+2002;1;Urto con ostacolo;76;103;0
+2002;1;Urto con veicolo in fermata o sosta;138;199;0
+2002;2;Altre cause;22;23;0
+2002;2;Fuoriuscita, sbandamento;58;63;0
+2002;2;Investimento pedone;167;189;3
+2002;2;Scontro frontale;20;32;1
+2002;2;Scontro frontale - laterale;462;656;2
+2002;2;Scontro laterale;130;167;1
+2002;2;Tamponamento;140;203;0
+2002;2;Urto con ostacolo;65;84;2
+2002;2;Urto con veicolo in fermata o sosta;128;177;2
+2002;3;Altre cause;43;50;0
+2002;3;Fuoriuscita, sbandamento;74;82;0
+2002;3;Investimento pedone;172;195;0
+2002;3;Scontro frontale;35;64;0
+2002;3;Scontro frontale - laterale;559;899;2
+2002;3;Scontro laterale;165;185;0
+2002;3;Tamponamento;177;274;0
+2002;3;Urto con ostacolo;72;89;1
+2002;3;Urto con veicolo in fermata o sosta;138;183;0
+2002;4;Altre cause;29;33;0
+2002;4;Fuoriuscita, sbandamento;103;114;1
+2002;4;Investimento pedone;149;179;5
+2002;4;Scontro frontale;17;30;0
+2002;4;Scontro frontale - laterale;584;900;2
+2002;4;Scontro laterale;151;182;0
+2002;4;Tamponamento;181;301;0
+2002;4;Urto con ostacolo;74;87;2
+2002;4;Urto con veicolo in fermata o sosta;151;213;0
+2002;5;Altre cause;37;38;0
+2002;5;Fuoriuscita, sbandamento;110;117;0
+2002;5;Investimento pedone;194;232;3
+2002;5;Scontro frontale;40;53;0
+2002;5;Scontro frontale - laterale;585;886;1
+2002;5;Scontro laterale;201;242;1
+2002;5;Tamponamento;204;314;0
+2002;5;Urto con ostacolo;80;98;0
+2002;5;Urto con veicolo in fermata o sosta;175;233;1
+2002;6;Altre cause;48;50;0
+2002;6;Fuoriuscita, sbandamento;111;126;1
+2002;6;Investimento pedone;148;184;0
+2002;6;Scontro frontale;28;43;0
+2002;6;Scontro frontale - laterale;571;829;5
+2002;6;Scontro laterale;187;213;1
+2002;6;Tamponamento;183;277;0
+2002;6;Urto con ostacolo;73;94;0
+2002;6;Urto con veicolo in fermata o sosta;170;231;0
+2002;7;Altre cause;63;77;0
+2002;7;Fuoriuscita, sbandamento;120;135;0
+2002;7;Investimento pedone;129;155;2
+2002;7;Scontro frontale;36;56;0
+2002;7;Scontro frontale - laterale;588;872;3
+2002;7;Scontro laterale;246;283;1
+2002;7;Tamponamento;244;372;2
+2002;7;Urto con ostacolo;91;104;0
+2002;7;Urto con veicolo in fermata o sosta;174;233;0
+2002;8;Altre cause;31;39;0
+2002;8;Fuoriuscita, sbandamento;63;72;0
+2002;8;Investimento pedone;48;58;1
+2002;8;Scontro frontale;10;14;0
+2002;8;Scontro frontale - laterale;321;522;0
+2002;8;Scontro laterale;80;98;1
+2002;8;Tamponamento;96;144;0
+2002;8;Urto con ostacolo;59;64;3
+2002;8;Urto con veicolo in fermata o sosta;84;130;0
+2002;9;Altre cause;38;38;0
+2002;9;Fuoriuscita, sbandamento;107;126;0
+2002;9;Investimento pedone;156;190;2
+2002;9;Scontro frontale;25;34;0
+2002;9;Scontro frontale - laterale;566;831;2
+2002;9;Scontro laterale;179;211;0
+2002;9;Tamponamento;207;324;0
+2002;9;Urto con ostacolo;79;96;1
+2002;9;Urto con veicolo in fermata o sosta;179;232;0
+2002;10;Altre cause;60;64;0
+2002;10;Fuoriuscita, sbandamento;126;134;0
+2002;10;Investimento pedone;185;234;2
+2002;10;Scontro frontale;36;65;0
+2002;10;Scontro frontale - laterale;691;997;2
+2002;10;Scontro laterale;198;219;0
+2002;10;Tamponamento;227;330;0
+2002;10;Urto con ostacolo;69;79;1
+2002;10;Urto con veicolo in fermata o sosta;186;265;0
+2002;11;Altre cause;48;55;0
+2002;11;Fuoriuscita, sbandamento;124;134;0
+2002;11;Investimento pedone;249;302;4
+2002;11;Scontro frontale;48;73;0
+2002;11;Scontro frontale - laterale;634;957;2
+2002;11;Scontro laterale;149;178;1
+2002;11;Tamponamento;203;315;0
+2002;11;Urto con ostacolo;72;93;1
+2002;11;Urto con veicolo in fermata o sosta;173;218;0
+2002;12;Altre cause;31;37;0
+2002;12;Fuoriuscita, sbandamento;78;83;0
+2002;12;Investimento pedone;166;201;0
+2002;12;Scontro frontale;34;54;0
+2002;12;Scontro frontale - laterale;555;835;1
+2002;12;Scontro laterale;140;184;0
+2002;12;Tamponamento;180;296;0
+2002;12;Urto con ostacolo;76;100;0
+2002;12;Urto con veicolo in fermata o sosta;163;218;0
+2003;1;Altre cause;32;33;0
+2003;1;Fuoriuscita, sbandamento;70;78;0
+2003;1;Investimento pedone;163;199;0
+2003;1;Scontro frontale;28;59;0
+2003;1;Scontro frontale - laterale;482;753;1
+2003;1;Scontro laterale;110;127;0
+2003;1;Tamponamento;139;217;0
+2003;1;Urto con ostacolo;80;98;1
+2003;1;Urto con veicolo in fermata o sosta;132;170;0
+2003;2;Altre cause;31;31;0
+2003;2;Fuoriuscita, sbandamento;73;79;0
+2003;2;Investimento pedone;127;150;1
+2003;2;Scontro frontale;19;48;1
+2003;2;Scontro frontale - laterale;472;717;0
+2003;2;Scontro laterale;121;142;0
+2003;2;Tamponamento;133;194;0
+2003;2;Urto con ostacolo;56;60;3
+2003;2;Urto con veicolo in fermata o sosta;114;157;0
+2003;3;Altre cause;33;35;0
+2003;3;Fuoriuscita, sbandamento;94;102;1
+2003;3;Investimento pedone;181;216;2
+2003;3;Scontro frontale;22;37;0
+2003;3;Scontro frontale - laterale;561;866;0
+2003;3;Scontro laterale;166;200;1
+2003;3;Tamponamento;195;298;0
+2003;3;Urto con ostacolo;62;71;4
+2003;3;Urto con veicolo in fermata o sosta;165;220;0
+2003;4;Altre cause;36;43;0
+2003;4;Fuoriuscita, sbandamento;117;132;0
+2003;4;Investimento pedone;131;152;1
+2003;4;Scontro frontale;24;37;0
+2003;4;Scontro frontale - laterale;560;830;0
+2003;4;Scontro laterale;139;171;0
+2003;4;Tamponamento;158;225;0
+2003;4;Urto con ostacolo;72;85;4
+2003;4;Urto con veicolo in fermata o sosta;170;226;0
+2003;5;Altre cause;62;72;0
+2003;5;Fuoriuscita, sbandamento;153;168;0
+2003;5;Investimento pedone;159;188;2
+2003;5;Scontro frontale;28;47;0
+2003;5;Scontro frontale - laterale;633;920;3
+2003;5;Scontro laterale;212;251;2
+2003;5;Tamponamento;206;330;1
+2003;5;Urto con ostacolo;90;104;2
+2003;5;Urto con veicolo in fermata o sosta;206;278;0
+2003;6;Altre cause;54;58;0
+2003;6;Fuoriuscita, sbandamento;143;159;0
+2003;6;Investimento pedone;142;164;1
+2003;6;Scontro frontale;46;72;0
+2003;6;Scontro frontale - laterale;610;883;4
+2003;6;Scontro laterale;201;243;0
+2003;6;Tamponamento;193;291;2
+2003;6;Urto con ostacolo;71;87;4
+2003;6;Urto con veicolo in fermata o sosta;167;206;1
+2003;7;Altre cause;60;65;0
+2003;7;Fuoriuscita, sbandamento;137;149;0
+2003;7;Investimento pedone;137;162;2
+2003;7;Scontro frontale;24;36;1
+2003;7;Scontro frontale - laterale;470;661;1
+2003;7;Scontro laterale;201;240;0
+2003;7;Tamponamento;155;203;0
+2003;7;Urto con ostacolo;81;96;0
+2003;7;Urto con veicolo in fermata o sosta;158;194;0
+2003;8;Altre cause;31;34;0
+2003;8;Fuoriuscita, sbandamento;72;79;0
+2003;8;Investimento pedone;39;46;2
+2003;8;Scontro frontale;16;27;1
+2003;8;Scontro frontale - laterale;252;376;1
+2003;8;Scontro laterale;71;83;0
+2003;8;Tamponamento;83;135;0
+2003;8;Urto con ostacolo;40;51;1
+2003;8;Urto con veicolo in fermata o sosta;95;130;0
+2003;9;Altre cause;50;54;0
+2003;9;Fuoriuscita, sbandamento;119;138;0
+2003;9;Investimento pedone;137;166;4
+2003;9;Scontro frontale;17;21;0
+2003;9;Scontro frontale - laterale;475;686;1
+2003;9;Scontro laterale;182;219;1
+2003;9;Tamponamento;188;265;1
+2003;9;Urto con ostacolo;68;83;1
+2003;9;Urto con veicolo in fermata o sosta;168;207;1
+2003;10;Altre cause;52;63;0
+2003;10;Fuoriuscita, sbandamento;157;166;0
+2003;10;Investimento pedone;233;282;3
+2003;10;Scontro frontale;32;45;0
+2003;10;Scontro frontale - laterale;589;826;1
+2003;10;Scontro laterale;174;199;0
+2003;10;Tamponamento;224;339;0
+2003;10;Urto con ostacolo;71;78;1
+2003;10;Urto con veicolo in fermata o sosta;174;248;0
+2003;11;Altre cause;43;45;0
+2003;11;Fuoriuscita, sbandamento;130;140;0
+2003;11;Investimento pedone;188;230;3
+2003;11;Scontro frontale;26;34;0
+2003;11;Scontro frontale - laterale;506;739;0
+2003;11;Scontro laterale;141;168;1
+2003;11;Tamponamento;153;236;0
+2003;11;Urto con ostacolo;61;68;2
+2003;11;Urto con veicolo in fermata o sosta;189;253;1
+2003;12;Altre cause;28;29;0
+2003;12;Fuoriuscita, sbandamento;106;110;0
+2003;12;Investimento pedone;190;230;0
+2003;12;Scontro frontale;30;51;0
+2003;12;Scontro frontale - laterale;555;815;0
+2003;12;Scontro laterale;120;141;0
+2003;12;Tamponamento;156;211;0
+2003;12;Urto con ostacolo;66;81;0
+2003;12;Urto con veicolo in fermata o sosta;155;210;0
+2004;1;Altre cause;34;35;0
+2004;1;Fuoriuscita, sbandamento;111;117;0
+2004;1;Investimento pedone;139;166;3
+2004;1;Scontro frontale;17;26;0
+2004;1;Scontro frontale - laterale;456;681;3
+2004;1;Scontro laterale;121;143;0
+2004;1;Tamponamento;144;229;0
+2004;1;Urto con ostacolo;70;90;0
+2004;1;Urto con veicolo in fermata o sosta;119;148;0
+2004;2;Altre cause;26;26;0
+2004;2;Fuoriuscita, sbandamento;91;98;0
+2004;2;Investimento pedone;138;163;4
+2004;2;Scontro frontale;22;27;0
+2004;2;Scontro frontale - laterale;443;676;1
+2004;2;Scontro laterale;97;107;0
+2004;2;Tamponamento;129;191;0
+2004;2;Urto con ostacolo;63;81;0
+2004;2;Urto con veicolo in fermata o sosta;123;170;0
+2004;3;Altre cause;28;30;0
+2004;3;Fuoriuscita, sbandamento;91;94;0
+2004;3;Investimento pedone;145;175;1
+2004;3;Scontro frontale;18;26;1
+2004;3;Scontro frontale - laterale;517;746;0
+2004;3;Scontro laterale;151;175;0
+2004;3;Tamponamento;156;252;0
+2004;3;Urto con ostacolo;59;71;0
+2004;3;Urto con veicolo in fermata o sosta;133;173;0
+2004;4;Altre cause;40;42;0
+2004;4;Fuoriuscita, sbandamento;123;138;0
+2004;4;Investimento pedone;158;182;1
+2004;4;Scontro frontale;23;43;1
+2004;4;Scontro frontale - laterale;510;724;1
+2004;4;Scontro laterale;147;178;2
+2004;4;Tamponamento;174;272;0
+2004;4;Urto con ostacolo;58;66;1
+2004;4;Urto con veicolo in fermata o sosta;158;241;0
+2004;5;Altre cause;45;59;0
+2004;5;Fuoriuscita, sbandamento;143;148;2
+2004;5;Investimento pedone;180;213;5
+2004;5;Scontro frontale;26;39;0
+2004;5;Scontro frontale - laterale;529;764;1
+2004;5;Scontro laterale;192;229;0
+2004;5;Tamponamento;189;269;0
+2004;5;Urto con ostacolo;76;98;0
+2004;5;Urto con veicolo in fermata o sosta;198;280;1
+2004;6;Altre cause;46;50;0
+2004;6;Fuoriuscita, sbandamento;160;176;1
+2004;6;Investimento pedone;141;168;4
+2004;6;Scontro frontale;22;34;0
+2004;6;Scontro frontale - laterale;533;808;2
+2004;6;Scontro laterale;235;290;0
+2004;6;Tamponamento;193;279;0
+2004;6;Urto con ostacolo;79;81;3
+2004;6;Urto con veicolo in fermata o sosta;168;236;1
+2004;7;Altre cause;29;31;0
+2004;7;Fuoriuscita, sbandamento;184;201;0
+2004;7;Investimento pedone;114;139;1
+2004;7;Scontro frontale;27;36;0
+2004;7;Scontro frontale - laterale;515;747;1
+2004;7;Scontro laterale;204;242;0
+2004;7;Tamponamento;194;288;2
+2004;7;Urto con ostacolo;80;92;0
+2004;7;Urto con veicolo in fermata o sosta;182;227;0
+2004;8;Altre cause;15;18;0
+2004;8;Fuoriuscita, sbandamento;62;72;0
+2004;8;Investimento pedone;50;61;1
+2004;8;Scontro frontale;16;25;0
+2004;8;Scontro frontale - laterale;258;378;1
+2004;8;Scontro laterale;85;104;0
+2004;8;Tamponamento;70;103;0
+2004;8;Urto con ostacolo;58;66;0
+2004;8;Urto con veicolo in fermata o sosta;85;120;0
+2004;9;Altre cause;33;39;0
+2004;9;Fuoriuscita, sbandamento;142;152;0
+2004;9;Investimento pedone;152;188;3
+2004;9;Scontro frontale;33;50;0
+2004;9;Scontro frontale - laterale;513;746;0
+2004;9;Scontro laterale;181;209;0
+2004;9;Tamponamento;174;285;1
+2004;9;Urto con ostacolo;69;81;1
+2004;9;Urto con veicolo in fermata o sosta;163;206;1
+2004;10;Altre cause;47;51;0
+2004;10;Fuoriuscita, sbandamento;184;192;1
+2004;10;Investimento pedone;166;198;1
+2004;10;Scontro frontale;24;30;0
+2004;10;Scontro frontale - laterale;596;868;2
+2004;10;Scontro laterale;185;218;1
+2004;10;Tamponamento;207;334;0
+2004;10;Urto con ostacolo;94;109;2
+2004;10;Urto con veicolo in fermata o sosta;207;256;2
+2004;11;Altre cause;26;28;0
+2004;11;Fuoriuscita, sbandamento;119;130;1
+2004;11;Investimento pedone;203;252;1
+2004;11;Scontro frontale;31;66;1
+2004;11;Scontro frontale - laterale;467;684;3
+2004;11;Scontro laterale;165;189;0
+2004;11;Tamponamento;159;256;0
+2004;11;Urto con ostacolo;68;89;2
+2004;11;Urto con veicolo in fermata o sosta;137;177;0
+2004;12;Altre cause;28;29;0
+2004;12;Fuoriuscita, sbandamento;131;135;1
+2004;12;Investimento pedone;161;189;3
+2004;12;Scontro frontale;27;38;1
+2004;12;Scontro frontale - laterale;503;783;1
+2004;12;Scontro laterale;130;158;0
+2004;12;Tamponamento;149;227;0
+2004;12;Urto con ostacolo;71;78;1
+2004;12;Urto con veicolo in fermata o sosta;156;210;0
+2005;1;Altre cause;24;24;0
+2005;1;Fuoriuscita, sbandamento;83;91;0
+2005;1;Investimento pedone;125;147;3
+2005;1;Scontro frontale;24;29;1
+2005;1;Scontro frontale - laterale;399;634;1
+2005;1;Scontro laterale;106;124;0
+2005;1;Tamponamento;141;213;1
+2005;1;Urto con ostacolo;47;53;1
+2005;1;Urto con veicolo in fermata o sosta;119;167;1
+2005;2;Altre cause;24;24;1
+2005;2;Fuoriuscita, sbandamento;112;114;1
+2005;2;Investimento pedone;149;181;3
+2005;2;Scontro frontale;23;43;0
+2005;2;Scontro frontale - laterale;398;603;2
+2005;2;Scontro laterale;104;120;0
+2005;2;Tamponamento;130;204;0
+2005;2;Urto con ostacolo;45;50;1
+2005;2;Urto con veicolo in fermata o sosta;113;154;2
+2005;3;Altre cause;19;20;0
+2005;3;Fuoriuscita, sbandamento;90;93;0
+2005;3;Investimento pedone;172;199;3
+2005;3;Scontro frontale;21;29;0
+2005;3;Scontro frontale - laterale;432;626;6
+2005;3;Scontro laterale;117;138;1
+2005;3;Tamponamento;126;192;0
+2005;3;Urto con ostacolo;60;73;0
+2005;3;Urto con veicolo in fermata o sosta;148;194;0
+2005;4;Altre cause;30;36;0
+2005;4;Fuoriuscita, sbandamento;94;101;0
+2005;4;Investimento pedone;147;168;1
+2005;4;Scontro frontale;14;20;0
+2005;4;Scontro frontale - laterale;461;670;0
+2005;4;Scontro laterale;158;190;1
+2005;4;Tamponamento;181;275;1
+2005;4;Urto con ostacolo;59;70;2
+2005;4;Urto con veicolo in fermata o sosta;165;207;0
+2005;5;Altre cause;35;48;0
+2005;5;Fuoriuscita, sbandamento;146;154;1
+2005;5;Investimento pedone;157;185;3
+2005;5;Scontro frontale;33;46;0
+2005;5;Scontro frontale - laterale;531;770;1
+2005;5;Scontro laterale;205;241;1
+2005;5;Tamponamento;182;275;0
+2005;5;Urto con ostacolo;64;74;1
+2005;5;Urto con veicolo in fermata o sosta;187;245;0
+2005;6;Altre cause;51;60;0
+2005;6;Fuoriuscita, sbandamento;150;168;1
+2005;6;Investimento pedone;126;166;2
+2005;6;Scontro frontale;24;64;0
+2005;6;Scontro frontale - laterale;478;696;0
+2005;6;Scontro laterale;190;216;0
+2005;6;Tamponamento;174;261;0
+2005;6;Urto con ostacolo;79;92;1
+2005;6;Urto con veicolo in fermata o sosta;164;206;0
+2005;7;Altre cause;46;51;0
+2005;7;Fuoriuscita, sbandamento;137;153;0
+2005;7;Investimento pedone;114;136;1
+2005;7;Scontro frontale;30;38;0
+2005;7;Scontro frontale - laterale;525;764;4
+2005;7;Scontro laterale;168;206;0
+2005;7;Tamponamento;168;258;0
+2005;7;Urto con ostacolo;67;76;0
+2005;7;Urto con veicolo in fermata o sosta;170;217;0
+2005;8;Altre cause;30;34;0
+2005;8;Fuoriuscita, sbandamento;90;101;0
+2005;8;Investimento pedone;57;63;4
+2005;8;Scontro frontale;14;24;0
+2005;8;Scontro frontale - laterale;283;421;0
+2005;8;Scontro laterale;97;117;0
+2005;8;Tamponamento;82;119;0
+2005;8;Urto con ostacolo;57;73;0
+2005;8;Urto con veicolo in fermata o sosta;86;117;0
+2005;9;Altre cause;30;30;1
+2005;9;Fuoriuscita, sbandamento;162;173;0
+2005;9;Investimento pedone;155;184;7
+2005;9;Scontro frontale;26;41;0
+2005;9;Scontro frontale - laterale;441;650;1
+2005;9;Scontro laterale;161;191;0
+2005;9;Tamponamento;159;260;0
+2005;9;Urto con ostacolo;49;62;1
+2005;9;Urto con veicolo in fermata o sosta;159;196;0
+2005;10;Altre cause;31;34;0
+2005;10;Fuoriuscita, sbandamento;135;143;1
+2005;10;Investimento pedone;164;195;3
+2005;10;Scontro frontale;25;30;0
+2005;10;Scontro frontale - laterale;508;764;2
+2005;10;Scontro laterale;174;198;0
+2005;10;Tamponamento;162;248;0
+2005;10;Urto con ostacolo;60;70;0
+2005;10;Urto con veicolo in fermata o sosta;149;189;1
+2005;11;Altre cause;35;38;0
+2005;11;Fuoriuscita, sbandamento;164;174;1
+2005;11;Investimento pedone;174;202;1
+2005;11;Scontro frontale;32;45;0
+2005;11;Scontro frontale - laterale;513;755;2
+2005;11;Scontro laterale;145;166;0
+2005;11;Tamponamento;167;270;0
+2005;11;Urto con ostacolo;67;83;0
+2005;11;Urto con veicolo in fermata o sosta;158;221;1
+2005;12;Altre cause;34;37;0
+2005;12;Fuoriuscita, sbandamento;93;103;0
+2005;12;Investimento pedone;164;199;6
+2005;12;Scontro frontale;27;41;0
+2005;12;Scontro frontale - laterale;383;610;1
+2005;12;Scontro laterale;99;118;1
+2005;12;Tamponamento;129;200;0
+2005;12;Urto con ostacolo;72;91;0
+2005;12;Urto con veicolo in fermata o sosta;118;161;0
+2006;1;Altre cause;34;36;0
+2006;1;Fuoriuscita, sbandamento;165;177;1
+2006;1;Investimento pedone;155;177;4
+2006;1;Scontro frontale;27;40;0
+2006;1;Scontro frontale - laterale;389;581;0
+2006;1;Scontro laterale;100;114;0
+2006;1;Tamponamento;119;195;0
+2006;1;Urto con ostacolo;79;103;3
+2006;1;Urto con veicolo in fermata o sosta;139;205;0
+2006;2;Altre cause;12;15;0
+2006;2;Fuoriuscita, sbandamento;81;83;3
+2006;2;Investimento pedone;145;172;3
+2006;2;Scontro frontale;9;10;2
+2006;2;Scontro frontale - laterale;344;518;3
+2006;2;Scontro laterale;89;108;0
+2006;2;Tamponamento;101;155;0
+2006;2;Urto con ostacolo;47;51;3
+2006;2;Urto con veicolo in fermata o sosta;112;137;1
+2006;3;Altre cause;31;34;0
+2006;3;Fuoriuscita, sbandamento;112;124;0
+2006;3;Investimento pedone;160;184;0
+2006;3;Scontro frontale;28;35;1
+2006;3;Scontro frontale - laterale;461;661;1
+2006;3;Scontro laterale;129;159;0
+2006;3;Tamponamento;152;227;0
+2006;3;Urto con ostacolo;72;89;0
+2006;3;Urto con veicolo in fermata o sosta;151;206;2
+2006;4;Altre cause;27;30;0
+2006;4;Fuoriuscita, sbandamento;90;100;0
+2006;4;Investimento pedone;106;139;2
+2006;4;Scontro frontale;16;25;0
+2006;4;Scontro frontale - laterale;434;641;0
+2006;4;Scontro laterale;142;165;0
+2006;4;Tamponamento;161;231;0
+2006;4;Urto con ostacolo;52;60;2
+2006;4;Urto con veicolo in fermata o sosta;146;212;1
+2006;5;Altre cause;38;43;0
+2006;5;Fuoriuscita, sbandamento;141;146;0
+2006;5;Investimento pedone;153;178;4
+2006;5;Scontro frontale;23;32;0
+2006;5;Scontro frontale - laterale;466;709;0
+2006;5;Scontro laterale;205;238;0
+2006;5;Tamponamento;175;267;0
+2006;5;Urto con ostacolo;63;71;1
+2006;5;Urto con veicolo in fermata o sosta;147;198;1
+2006;6;Altre cause;43;47;1
+2006;6;Fuoriuscita, sbandamento;150;156;1
+2006;6;Investimento pedone;131;173;2
+2006;6;Scontro frontale;39;52;0
+2006;6;Scontro frontale - laterale;504;722;0
+2006;6;Scontro laterale;191;223;1
+2006;6;Tamponamento;170;260;1
+2006;6;Urto con ostacolo;74;92;0
+2006;6;Urto con veicolo in fermata o sosta;163;200;1
+2006;7;Altre cause;26;28;0
+2006;7;Fuoriuscita, sbandamento;158;176;1
+2006;7;Investimento pedone;128;157;2
+2006;7;Scontro frontale;13;22;0
+2006;7;Scontro frontale - laterale;478;699;5
+2006;7;Scontro laterale;177;205;3
+2006;7;Tamponamento;150;241;0
+2006;7;Urto con ostacolo;74;90;2
+2006;7;Urto con veicolo in fermata o sosta;138;185;1
+2006;8;Altre cause;26;31;0
+2006;8;Fuoriuscita, sbandamento;79;84;1
+2006;8;Investimento pedone;47;51;0
+2006;8;Scontro frontale;14;19;1
+2006;8;Scontro frontale - laterale;227;380;0
+2006;8;Scontro laterale;76;104;2
+2006;8;Tamponamento;73;120;0
+2006;8;Urto con ostacolo;63;75;0
+2006;8;Urto con veicolo in fermata o sosta;77;116;1
+2006;9;Altre cause;27;33;0
+2006;9;Fuoriuscita, sbandamento;148;159;1
+2006;9;Investimento pedone;144;173;1
+2006;9;Scontro frontale;19;31;0
+2006;9;Scontro frontale - laterale;405;618;0
+2006;9;Scontro laterale;166;193;1
+2006;9;Tamponamento;150;232;0
+2006;9;Urto con ostacolo;53;62;1
+2006;9;Urto con veicolo in fermata o sosta;151;201;0
+2006;10;Altre cause;34;35;0
+2006;10;Fuoriuscita, sbandamento;150;173;0
+2006;10;Investimento pedone;151;177;4
+2006;10;Scontro frontale;29;38;0
+2006;10;Scontro frontale - laterale;515;723;2
+2006;10;Scontro laterale;188;215;1
+2006;10;Tamponamento;170;269;1
+2006;10;Urto con ostacolo;65;78;0
+2006;10;Urto con veicolo in fermata o sosta;169;221;0
+2006;11;Altre cause;27;27;0
+2006;11;Fuoriuscita, sbandamento;140;149;0
+2006;11;Investimento pedone;190;227;3
+2006;11;Scontro frontale;28;40;1
+2006;11;Scontro frontale - laterale;493;748;0
+2006;11;Scontro laterale;152;175;0
+2006;11;Tamponamento;156;232;0
+2006;11;Urto con ostacolo;79;102;0
+2006;11;Urto con veicolo in fermata o sosta;171;250;0
+2006;12;Altre cause;23;25;0
+2006;12;Fuoriuscita, sbandamento;101;103;1
+2006;12;Investimento pedone;174;202;2
+2006;12;Scontro frontale;25;38;0
+2006;12;Scontro frontale - laterale;453;671;3
+2006;12;Scontro laterale;140;167;0
+2006;12;Tamponamento;154;234;0
+2006;12;Urto con ostacolo;76;99;1
+2006;12;Urto con veicolo in fermata o sosta;119;161;0
+2007;1;Altre cause;22;24;1
+2007;1;Fuoriuscita, sbandamento;101;103;0
+2007;1;Investimento pedone;175;199;1
+2007;1;Scontro frontale;25;30;0
+2007;1;Scontro frontale - laterale;379;552;1
+2007;1;Scontro laterale;118;141;1
+2007;1;Tamponamento;110;174;0
+2007;1;Urto con ostacolo;68;79;0
+2007;1;Urto con veicolo in fermata o sosta;125;177;0
+2007;2;Altre cause;10;12;0
+2007;2;Fuoriuscita, sbandamento;75;79;0
+2007;2;Investimento pedone;138;166;2
+2007;2;Scontro frontale;22;29;1
+2007;2;Scontro frontale - laterale;398;614;1
+2007;2;Scontro laterale;131;156;0
+2007;2;Tamponamento;110;180;0
+2007;2;Urto con ostacolo;49;53;3
+2007;2;Urto con veicolo in fermata o sosta;125;174;1
+2007;3;Altre cause;24;26;0
+2007;3;Fuoriuscita, sbandamento;144;149;2
+2007;3;Investimento pedone;138;169;2
+2007;3;Scontro frontale;28;37;0
+2007;3;Scontro frontale - laterale;444;649;4
+2007;3;Scontro laterale;142;165;1
+2007;3;Tamponamento;145;219;1
+2007;3;Urto con ostacolo;56;64;2
+2007;3;Urto con veicolo in fermata o sosta;150;197;0
+2007;4;Altre cause;34;43;0
+2007;4;Fuoriuscita, sbandamento;109;123;0
+2007;4;Investimento pedone;136;163;1
+2007;4;Scontro frontale;17;24;0
+2007;4;Scontro frontale - laterale;418;629;3
+2007;4;Scontro laterale;144;176;1
+2007;4;Tamponamento;129;201;0
+2007;4;Urto con ostacolo;47;49;1
+2007;4;Urto con veicolo in fermata o sosta;157;235;0
+2007;5;Altre cause;16;16;0
+2007;5;Fuoriuscita, sbandamento;170;180;1
+2007;5;Investimento pedone;176;222;2
+2007;5;Scontro frontale;26;38;1
+2007;5;Scontro frontale - laterale;453;648;2
+2007;5;Scontro laterale;172;213;0
+2007;5;Tamponamento;148;228;0
+2007;5;Urto con ostacolo;61;74;0
+2007;5;Urto con veicolo in fermata o sosta;162;225;0
+2007;6;Altre cause;22;27;0
+2007;6;Fuoriuscita, sbandamento;156;173;0
+2007;6;Investimento pedone;125;146;4
+2007;6;Scontro frontale;25;32;0
+2007;6;Scontro frontale - laterale;461;669;2
+2007;6;Scontro laterale;168;209;0
+2007;6;Tamponamento;141;237;0
+2007;6;Urto con ostacolo;61;75;2
+2007;6;Urto con veicolo in fermata o sosta;156;210;0
+2007;7;Altre cause;31;34;1
+2007;7;Fuoriuscita, sbandamento;159;172;1
+2007;7;Investimento pedone;144;175;1
+2007;7;Scontro frontale;30;44;2
+2007;7;Scontro frontale - laterale;463;696;1
+2007;7;Scontro laterale;141;167;0
+2007;7;Tamponamento;154;222;0
+2007;7;Urto con ostacolo;58;62;2
+2007;7;Urto con veicolo in fermata o sosta;156;225;1
+2007;8;Altre cause;9;9;0
+2007;8;Fuoriuscita, sbandamento;84;95;0
+2007;8;Investimento pedone;51;63;2
+2007;8;Scontro frontale;9;18;0
+2007;8;Scontro frontale - laterale;242;375;2
+2007;8;Scontro laterale;62;67;1
+2007;8;Tamponamento;72;118;0
+2007;8;Urto con ostacolo;45;58;2
+2007;8;Urto con veicolo in fermata o sosta;64;81;0
+2007;9;Altre cause;27;28;0
+2007;9;Fuoriuscita, sbandamento;153;166;1
+2007;9;Investimento pedone;160;190;1
+2007;9;Scontro frontale;22;30;0
+2007;9;Scontro frontale - laterale;387;542;1
+2007;9;Scontro laterale;171;199;0
+2007;9;Tamponamento;176;294;0
+2007;9;Urto con ostacolo;59;66;0
+2007;9;Urto con veicolo in fermata o sosta;152;200;1
+2007;10;Altre cause;27;33;0
+2007;10;Fuoriuscita, sbandamento;144;155;0
+2007;10;Investimento pedone;187;225;4
+2007;10;Scontro frontale;29;41;1
+2007;10;Scontro frontale - laterale;460;637;2
+2007;10;Scontro laterale;170;190;0
+2007;10;Tamponamento;156;230;0
+2007;10;Urto con ostacolo;58;64;1
+2007;10;Urto con veicolo in fermata o sosta;139;175;1
+2007;11;Altre cause;23;26;0
+2007;11;Fuoriuscita, sbandamento;119;125;2
+2007;11;Investimento pedone;185;219;2
+2007;11;Scontro frontale;26;34;1
+2007;11;Scontro frontale - laterale;439;638;3
+2007;11;Scontro laterale;158;176;0
+2007;11;Tamponamento;139;224;0
+2007;11;Urto con ostacolo;66;87;0
+2007;11;Urto con veicolo in fermata o sosta;147;202;0
+2007;12;Altre cause;14;17;0
+2007;12;Fuoriuscita, sbandamento;113;121;0
+2007;12;Investimento pedone;155;191;0
+2007;12;Scontro frontale;20;26;0
+2007;12;Scontro frontale - laterale;354;529;1
+2007;12;Scontro laterale;125;141;0
+2007;12;Tamponamento;104;153;0
+2007;12;Urto con ostacolo;63;79;0
+2007;12;Urto con veicolo in fermata o sosta;133;191;0
+2008;1;Altre cause;10;12;0
+2008;1;Fuoriuscita, sbandamento;83;99;1
+2008;1;Investimento pedone;183;221;4
+2008;1;Scontro frontale;21;26;1
+2008;1;Scontro frontale - laterale;318;511;0
+2008;1;Scontro laterale;83;96;0
+2008;1;Tamponamento;111;189;0
+2008;1;Urto con ostacolo;70;91;1
+2008;1;Urto con veicolo in fermata o sosta;111;149;0
+2008;2;Altre cause;15;17;0
+2008;2;Fuoriuscita, sbandamento;111;118;0
+2008;2;Investimento pedone;137;164;1
+2008;2;Scontro frontale;18;26;0
+2008;2;Scontro frontale - laterale;358;532;3
+2008;2;Scontro laterale;134;194;1
+2008;2;Tamponamento;134;214;1
+2008;2;Urto con ostacolo;55;67;0
+2008;2;Urto con veicolo in fermata o sosta;117;156;0
+2008;3;Altre cause;25;28;0
+2008;3;Fuoriuscita, sbandamento;117;132;0
+2008;3;Investimento pedone;127;153;1
+2008;3;Scontro frontale;26;42;0
+2008;3;Scontro frontale - laterale;399;621;2
+2008;3;Scontro laterale;138;162;1
+2008;3;Tamponamento;125;197;2
+2008;3;Urto con ostacolo;60;72;0
+2008;3;Urto con veicolo in fermata o sosta;161;214;0
+2008;4;Altre cause;12;14;0
+2008;4;Fuoriuscita, sbandamento;139;152;0
+2008;4;Investimento pedone;121;134;3
+2008;4;Scontro frontale;17;26;0
+2008;4;Scontro frontale - laterale;441;645;1
+2008;4;Scontro laterale;126;163;0
+2008;4;Tamponamento;146;233;0
+2008;4;Urto con ostacolo;75;92;0
+2008;4;Urto con veicolo in fermata o sosta;134;171;0
+2008;5;Altre cause;20;24;1
+2008;5;Fuoriuscita, sbandamento;132;146;0
+2008;5;Investimento pedone;111;134;1
+2008;5;Scontro frontale;25;36;1
+2008;5;Scontro frontale - laterale;389;600;5
+2008;5;Scontro laterale;146;177;0
+2008;5;Tamponamento;107;168;0
+2008;5;Urto con ostacolo;48;62;3
+2008;5;Urto con veicolo in fermata o sosta;166;227;0
+2008;6;Altre cause;15;15;0
+2008;6;Fuoriuscita, sbandamento;128;134;0
+2008;6;Investimento pedone;128;139;2
+2008;6;Scontro frontale;24;44;0
+2008;6;Scontro frontale - laterale;428;642;3
+2008;6;Scontro laterale;125;145;0
+2008;6;Tamponamento;133;211;0
+2008;6;Urto con ostacolo;73;90;1
+2008;6;Urto con veicolo in fermata o sosta;151;203;0
+2008;7;Altre cause;24;31;0
+2008;7;Fuoriuscita, sbandamento;134;149;1
+2008;7;Investimento pedone;112;134;2
+2008;7;Scontro frontale;21;28;0
+2008;7;Scontro frontale - laterale;417;594;1
+2008;7;Scontro laterale;146;163;1
+2008;7;Tamponamento;108;165;0
+2008;7;Urto con ostacolo;74;86;0
+2008;7;Urto con veicolo in fermata o sosta;142;180;0
+2008;8;Altre cause;14;15;0
+2008;8;Fuoriuscita, sbandamento;74;84;0
+2008;8;Investimento pedone;42;49;1
+2008;8;Scontro frontale;11;13;0
+2008;8;Scontro frontale - laterale;208;330;1
+2008;8;Scontro laterale;65;71;0
+2008;8;Tamponamento;48;71;0
+2008;8;Urto con ostacolo;50;59;2
+2008;8;Urto con veicolo in fermata o sosta;63;86;0
+2008;9;Altre cause;17;19;0
+2008;9;Fuoriuscita, sbandamento;156;171;0
+2008;9;Investimento pedone;136;171;2
+2008;9;Scontro frontale;14;23;0
+2008;9;Scontro frontale - laterale;389;557;6
+2008;9;Scontro laterale;162;194;0
+2008;9;Tamponamento;135;221;0
+2008;9;Urto con ostacolo;52;58;0
+2008;9;Urto con veicolo in fermata o sosta;137;190;0
+2008;10;Altre cause;21;22;0
+2008;10;Fuoriuscita, sbandamento;170;183;0
+2008;10;Investimento pedone;167;197;2
+2008;10;Scontro frontale;19;25;0
+2008;10;Scontro frontale - laterale;439;655;1
+2008;10;Scontro laterale;166;207;1
+2008;10;Tamponamento;170;256;0
+2008;10;Urto con ostacolo;71;73;3
+2008;10;Urto con veicolo in fermata o sosta;155;197;0
+2008;11;Altre cause;20;23;0
+2008;11;Fuoriuscita, sbandamento;162;177;0
+2008;11;Investimento pedone;196;233;1
+2008;11;Scontro frontale;14;20;0
+2008;11;Scontro frontale - laterale;389;566;0
+2008;11;Scontro laterale;118;141;0
+2008;11;Tamponamento;129;182;0
+2008;11;Urto con ostacolo;63;70;0
+2008;11;Urto con veicolo in fermata o sosta;140;182;1
+2008;12;Altre cause;11;12;0
+2008;12;Fuoriuscita, sbandamento;103;109;0
+2008;12;Investimento pedone;163;187;3
+2008;12;Scontro frontale;20;23;2
+2008;12;Scontro frontale - laterale;298;446;1
+2008;12;Scontro laterale;87;106;0
+2008;12;Tamponamento;110;174;0
+2008;12;Urto con ostacolo;59;71;0
+2008;12;Urto con veicolo in fermata o sosta;111;153;0
+2009;1;Altre cause;18;18;0
+2009;1;Fuoriuscita, sbandamento;121;129;0
+2009;1;Investimento pedone;129;144;0
+2009;1;Scontro frontale;11;15;0
+2009;1;Scontro frontale - laterale;262;410;1
+2009;1;Scontro laterale;59;65;0
+2009;1;Tamponamento;92;150;0
+2009;1;Urto con ostacolo;63;83;0
+2009;1;Urto con veicolo in fermata o sosta;98;134;0
+2009;2;Altre cause;9;9;0
+2009;2;Fuoriuscita, sbandamento;78;83;0
+2009;2;Investimento pedone;126;149;2
+2009;2;Scontro frontale;19;27;1
+2009;2;Scontro frontale - laterale;271;405;2
+2009;2;Scontro laterale;82;91;1
+2009;2;Tamponamento;86;133;0
+2009;2;Urto con ostacolo;64;73;0
+2009;2;Urto con veicolo in fermata o sosta;91;126;0
+2009;3;Altre cause;26;27;0
+2009;3;Fuoriuscita, sbandamento;88;93;1
+2009;3;Investimento pedone;159;187;1
+2009;3;Scontro frontale;16;23;0
+2009;3;Scontro frontale - laterale;334;476;0
+2009;3;Scontro laterale;127;154;0
+2009;3;Tamponamento;134;202;0
+2009;3;Urto con ostacolo;100;117;0
+2009;3;Urto con veicolo in fermata o sosta;145;196;0
+2009;4;Altre cause;24;26;1
+2009;4;Fuoriuscita, sbandamento;116;124;1
+2009;4;Investimento pedone;119;133;2
+2009;4;Scontro frontale;22;39;0
+2009;4;Scontro frontale - laterale;328;497;1
+2009;4;Scontro laterale;125;145;0
+2009;4;Tamponamento;120;200;1
+2009;4;Urto con ostacolo;77;95;0
+2009;4;Urto con veicolo in fermata o sosta;113;156;0
+2009;5;Altre cause;38;40;0
+2009;5;Fuoriuscita, sbandamento;143;153;1
+2009;5;Investimento pedone;112;131;1
+2009;5;Scontro frontale;27;34;0
+2009;5;Scontro frontale - laterale;403;566;0
+2009;5;Scontro laterale;146;177;0
+2009;5;Tamponamento;139;205;0
+2009;5;Urto con ostacolo;72;79;0
+2009;5;Urto con veicolo in fermata o sosta;140;180;0
+2009;6;Altre cause;28;28;0
+2009;6;Fuoriuscita, sbandamento;160;171;0
+2009;6;Investimento pedone;119;144;3
+2009;6;Scontro frontale;19;36;0
+2009;6;Scontro frontale - laterale;412;608;1
+2009;6;Scontro laterale;154;198;0
+2009;6;Tamponamento;138;223;0
+2009;6;Urto con ostacolo;61;77;3
+2009;6;Urto con veicolo in fermata o sosta;148;201;0
+2009;7;Altre cause;26;30;0
+2009;7;Fuoriuscita, sbandamento;154;169;0
+2009;7;Investimento pedone;125;151;1
+2009;7;Scontro frontale;26;35;0
+2009;7;Scontro frontale - laterale;353;502;2
+2009;7;Scontro laterale;152;186;0
+2009;7;Tamponamento;124;192;0
+2009;7;Urto con ostacolo;70;86;0
+2009;7;Urto con veicolo in fermata o sosta;137;175;0
+2009;8;Altre cause;20;26;0
+2009;8;Fuoriuscita, sbandamento;59;67;0
+2009;8;Investimento pedone;46;56;2
+2009;8;Scontro frontale;6;10;0
+2009;8;Scontro frontale - laterale;188;321;1
+2009;8;Scontro laterale;62;75;0
+2009;8;Tamponamento;78;122;1
+2009;8;Urto con ostacolo;50;58;2
+2009;8;Urto con veicolo in fermata o sosta;77;103;0
+2009;9;Altre cause;34;38;0
+2009;9;Fuoriuscita, sbandamento;141;157;1
+2009;9;Investimento pedone;138;170;1
+2009;9;Scontro frontale;17;26;0
+2009;9;Scontro frontale - laterale;349;503;2
+2009;9;Scontro laterale;136;164;1
+2009;9;Tamponamento;124;203;0
+2009;9;Urto con ostacolo;55;69;2
+2009;9;Urto con veicolo in fermata o sosta;135;178;0
+2009;10;Altre cause;27;29;0
+2009;10;Fuoriuscita, sbandamento;154;167;0
+2009;10;Investimento pedone;143;170;1
+2009;10;Scontro frontale;18;31;0
+2009;10;Scontro frontale - laterale;388;574;2
+2009;10;Scontro laterale;148;170;0
+2009;10;Tamponamento;159;268;0
+2009;10;Urto con ostacolo;82;89;0
+2009;10;Urto con veicolo in fermata o sosta;154;204;1
+2009;11;Altre cause;25;32;0
+2009;11;Fuoriuscita, sbandamento;158;170;1
+2009;11;Investimento pedone;162;196;3
+2009;11;Scontro frontale;10;13;0
+2009;11;Scontro frontale - laterale;382;566;1
+2009;11;Scontro laterale;112;132;0
+2009;11;Tamponamento;113;171;0
+2009;11;Urto con ostacolo;79;103;0
+2009;11;Urto con veicolo in fermata o sosta;109;165;0
+2009;12;Altre cause;21;25;0
+2009;12;Fuoriuscita, sbandamento;94;100;0
+2009;12;Investimento pedone;143;172;1
+2009;12;Scontro frontale;14;20;0
+2009;12;Scontro frontale - laterale;293;424;0
+2009;12;Scontro laterale;80;114;0
+2009;12;Tamponamento;103;165;0
+2009;12;Urto con ostacolo;53;64;0
+2009;12;Urto con veicolo in fermata o sosta;113;146;1
+2010;1;Altre cause;14;15;0
+2010;1;Fuoriuscita, sbandamento;93;104;0
+2010;1;Investimento pedone;126;146;3
+2010;1;Scontro frontale;15;23;1
+2010;1;Scontro frontale - laterale;251;397;2
+2010;1;Scontro laterale;87;110;0
+2010;1;Tamponamento;85;142;0
+2010;1;Urto con ostacolo;72;85;1
+2010;1;Urto con veicolo in fermata o sosta;86;116;0
+2010;2;Altre cause;16;16;0
+2010;2;Fuoriuscita, sbandamento;83;89;0
+2010;2;Investimento pedone;125;145;1
+2010;2;Scontro frontale;12;27;0
+2010;2;Scontro frontale - laterale;258;414;2
+2010;2;Scontro laterale;75;83;0
+2010;2;Tamponamento;104;164;0
+2010;2;Urto con ostacolo;66;71;1
+2010;2;Urto con veicolo in fermata o sosta;99;137;0
+2010;3;Altre cause;16;17;0
+2010;3;Fuoriuscita, sbandamento;114;121;0
+2010;3;Investimento pedone;158;189;2
+2010;3;Scontro frontale;17;29;0
+2010;3;Scontro frontale - laterale;347;535;1
+2010;3;Scontro laterale;123;140;0
+2010;3;Tamponamento;112;157;0
+2010;3;Urto con ostacolo;90;110;1
+2010;3;Urto con veicolo in fermata o sosta;130;173;0
+2010;4;Altre cause;23;29;0
+2010;4;Fuoriuscita, sbandamento;119;126;0
+2010;4;Investimento pedone;119;145;3
+2010;4;Scontro frontale;27;51;0
+2010;4;Scontro frontale - laterale;354;530;0
+2010;4;Scontro laterale;120;131;0
+2010;4;Tamponamento;149;246;0
+2010;4;Urto con ostacolo;91;113;1
+2010;4;Urto con veicolo in fermata o sosta;111;138;0
+2010;5;Altre cause;24;28;0
+2010;5;Fuoriuscita, sbandamento;127;143;1
+2010;5;Investimento pedone;140;167;1
+2010;5;Scontro frontale;16;19;0
+2010;5;Scontro frontale - laterale;362;555;2
+2010;5;Scontro laterale;122;141;0
+2010;5;Tamponamento;143;227;0
+2010;5;Urto con ostacolo;89;108;0
+2010;5;Urto con veicolo in fermata o sosta;131;164;0
+2010;6;Altre cause;27;28;0
+2010;6;Fuoriuscita, sbandamento;141;152;0
+2010;6;Investimento pedone;128;149;1
+2010;6;Scontro frontale;17;29;0
+2010;6;Scontro frontale - laterale;341;493;2
+2010;6;Scontro laterale;147;178;0
+2010;6;Tamponamento;127;218;0
+2010;6;Urto con ostacolo;76;88;1
+2010;6;Urto con veicolo in fermata o sosta;129;179;0
+2010;7;Altre cause;18;19;0
+2010;7;Fuoriuscita, sbandamento;130;142;0
+2010;7;Investimento pedone;111;132;3
+2010;7;Scontro frontale;10;10;0
+2010;7;Scontro frontale - laterale;360;547;4
+2010;7;Scontro laterale;151;191;0
+2010;7;Tamponamento;110;189;0
+2010;7;Urto con ostacolo;69;79;2
+2010;7;Urto con veicolo in fermata o sosta;114;141;0
+2010;8;Altre cause;10;12;0
+2010;8;Fuoriuscita, sbandamento;64;69;0
+2010;8;Investimento pedone;38;42;2
+2010;8;Scontro frontale;11;22;0
+2010;8;Scontro frontale - laterale;188;318;0
+2010;8;Scontro laterale;49;56;0
+2010;8;Tamponamento;58;91;0
+2010;8;Urto con ostacolo;55;71;1
+2010;8;Urto con veicolo in fermata o sosta;57;82;0
+2010;9;Altre cause;15;15;0
+2010;9;Fuoriuscita, sbandamento;125;136;0
+2010;9;Investimento pedone;117;140;2
+2010;9;Scontro frontale;17;26;0
+2010;9;Scontro frontale - laterale;320;451;0
+2010;9;Scontro laterale;126;151;0
+2010;9;Tamponamento;130;190;1
+2010;9;Urto con ostacolo;66;91;2
+2010;9;Urto con veicolo in fermata o sosta;106;147;0
+2010;10;Altre cause;20;21;0
+2010;10;Fuoriuscita, sbandamento;119;124;0
+2010;10;Investimento pedone;158;204;0
+2010;10;Scontro frontale;20;34;0
+2010;10;Scontro frontale - laterale;399;577;1
+2010;10;Scontro laterale;129;154;0
+2010;10;Tamponamento;122;204;0
+2010;10;Urto con ostacolo;73;88;1
+2010;10;Urto con veicolo in fermata o sosta;106;145;0
+2010;11;Altre cause;19;27;0
+2010;11;Fuoriuscita, sbandamento;140;157;0
+2010;11;Investimento pedone;153;184;0
+2010;11;Scontro frontale;17;32;0
+2010;11;Scontro frontale - laterale;334;491;1
+2010;11;Scontro laterale;108;131;0
+2010;11;Tamponamento;117;167;0
+2010;11;Urto con ostacolo;85;105;1
+2010;11;Urto con veicolo in fermata o sosta;102;135;1
+2010;12;Altre cause;11;12;0
+2010;12;Fuoriuscita, sbandamento;112;113;1
+2010;12;Investimento pedone;174;214;3
+2010;12;Scontro frontale;8;11;0
+2010;12;Scontro frontale - laterale;250;400;0
+2010;12;Scontro laterale;52;61;0
+2010;12;Tamponamento;106;156;0
+2010;12;Urto con ostacolo;110;138;0
+2010;12;Urto con veicolo in fermata o sosta;69;91;0
+2011;1;Altre cause;14;16;0
+2011;1;Fuoriuscita, sbandamento;47;48;0
+2011;1;Investimento pedone;112;128;1
+2011;1;Scontro frontale;13;15;0
+2011;1;Scontro frontale - laterale;243;400;3
+2011;1;Scontro laterale;60;80;0
+2011;1;Tamponamento;71;108;0
+2011;1;Urto con ostacolo;64;84;0
+2011;1;Urto con veicolo in fermata o sosta;77;119;0
+2011;2;Altre cause;13;13;0
+2011;2;Fuoriuscita, sbandamento;76;82;1
+2011;2;Investimento pedone;146;170;1
+2011;2;Scontro frontale;14;19;0
+2011;2;Scontro frontale - laterale;281;422;1
+2011;2;Scontro laterale;88;102;0
+2011;2;Tamponamento;91;151;0
+2011;2;Urto con ostacolo;55;65;0
+2011;2;Urto con veicolo in fermata o sosta;69;94;0
+2011;3;Altre cause;17;19;0
+2011;3;Fuoriuscita, sbandamento;86;89;1
+2011;3;Investimento pedone;150;170;1
+2011;3;Scontro frontale;19;28;0
+2011;3;Scontro frontale - laterale;345;517;2
+2011;3;Scontro laterale;107;128;0
+2011;3;Tamponamento;95;156;0
+2011;3;Urto con ostacolo;64;81;1
+2011;3;Urto con veicolo in fermata o sosta;112;163;0
+2011;4;Altre cause;22;27;0
+2011;4;Fuoriuscita, sbandamento;117;126;0
+2011;4;Investimento pedone;123;141;1
+2011;4;Scontro frontale;18;29;0
+2011;4;Scontro frontale - laterale;333;497;0
+2011;4;Scontro laterale;145;176;0
+2011;4;Tamponamento;117;176;0
+2011;4;Urto con ostacolo;52;58;0
+2011;4;Urto con veicolo in fermata o sosta;115;140;0
+2011;5;Altre cause;19;20;0
+2011;5;Fuoriuscita, sbandamento;139;148;0
+2011;5;Investimento pedone;139;164;3
+2011;5;Scontro frontale;24;33;0
+2011;5;Scontro frontale - laterale;372;539;0
+2011;5;Scontro laterale;154;186;0
+2011;5;Tamponamento;133;215;0
+2011;5;Urto con ostacolo;71;83;0
+2011;5;Urto con veicolo in fermata o sosta;126;163;0
+2011;6;Altre cause;22;22;0
+2011;6;Fuoriuscita, sbandamento;126;131;0
+2011;6;Investimento pedone;115;132;2
+2011;6;Scontro frontale;17;24;0
+2011;6;Scontro frontale - laterale;308;481;1
+2011;6;Scontro laterale;123;146;0
+2011;6;Tamponamento;115;187;0
+2011;6;Urto con ostacolo;72;82;0
+2011;6;Urto con veicolo in fermata o sosta;94;120;0
+2011;7;Altre cause;17;21;0
+2011;7;Fuoriuscita, sbandamento;102;111;0
+2011;7;Investimento pedone;70;82;1
+2011;7;Scontro frontale;14;23;0
+2011;7;Scontro frontale - laterale;314;477;0
+2011;7;Scontro laterale;131;160;0
+2011;7;Tamponamento;106;151;0
+2011;7;Urto con ostacolo;65;76;0
+2011;7;Urto con veicolo in fermata o sosta;114;157;0
+2011;8;Altre cause;13;13;0
+2011;8;Fuoriuscita, sbandamento;66;71;0
+2011;8;Investimento pedone;50;55;0
+2011;8;Scontro frontale;8;18;1
+2011;8;Scontro frontale - laterale;151;238;1
+2011;8;Scontro laterale;63;75;0
+2011;8;Tamponamento;49;80;0
+2011;8;Urto con ostacolo;49;55;2
+2011;8;Urto con veicolo in fermata o sosta;53;69;0
+2011;9;Altre cause;18;18;0
+2011;9;Fuoriuscita, sbandamento;139;147;2
+2011;9;Investimento pedone;139;170;1
+2011;9;Scontro frontale;23;42;1
+2011;9;Scontro frontale - laterale;363;518;0
+2011;9;Scontro laterale;134;150;0
+2011;9;Tamponamento;142;230;0
+2011;9;Urto con ostacolo;69;81;3
+2011;9;Urto con veicolo in fermata o sosta;118;164;1
+2011;10;Altre cause;24;26;0
+2011;10;Fuoriuscita, sbandamento;141;150;1
+2011;10;Investimento pedone;183;228;3
+2011;10;Scontro frontale;18;40;0
+2011;10;Scontro frontale - laterale;344;481;4
+2011;10;Scontro laterale;142;169;1
+2011;10;Tamponamento;127;207;0
+2011;10;Urto con ostacolo;81;100;0
+2011;10;Urto con veicolo in fermata o sosta;130;170;1
+2011;11;Altre cause;12;12;0
+2011;11;Fuoriuscita, sbandamento;102;106;1
+2011;11;Investimento pedone;151;180;0
+2011;11;Scontro frontale;15;24;0
+2011;11;Scontro frontale - laterale;287;459;0
+2011;11;Scontro laterale;106;128;0
+2011;11;Tamponamento;115;191;0
+2011;11;Urto con ostacolo;67;83;1
+2011;11;Urto con veicolo in fermata o sosta;111;149;2
+2011;12;Altre cause;18;20;0
+2011;12;Fuoriuscita, sbandamento;110;119;0
+2011;12;Investimento pedone;116;132;1
+2011;12;Scontro frontale;9;18;0
+2011;12;Scontro frontale - laterale;297;438;0
+2011;12;Scontro laterale;96;120;0
+2011;12;Tamponamento;95;149;0
+2011;12;Urto con ostacolo;56;76;0
+2011;12;Urto con veicolo in fermata o sosta;102;138;1
+2012;1;Altre cause;14;15;0
+2012;1;Fuoriuscita, sbandamento;90;97;0
+2012;1;Investimento pedone;153;170;2
+2012;1;Scontro frontale;18;26;0
+2012;1;Scontro frontale - laterale;253;400;0
+2012;1;Scontro laterale;98;112;1
+2012;1;Tamponamento;129;187;0
+2012;1;Urto con ostacolo;50;63;2
+2012;1;Urto con veicolo in fermata o sosta;79;125;0
+2012;2;Altre cause;7;8;0
+2012;2;Fuoriuscita, sbandamento;80;83;0
+2012;2;Investimento pedone;126;146;0
+2012;2;Scontro frontale;16;28;0
+2012;2;Scontro frontale - laterale;203;311;1
+2012;2;Scontro laterale;60;78;0
+2012;2;Tamponamento;97;145;0
+2012;2;Urto con ostacolo;54;71;0
+2012;2;Urto con veicolo in fermata o sosta;63;80;0
+2012;3;Altre cause;12;14;0
+2012;3;Fuoriuscita, sbandamento;113;121;0
+2012;3;Investimento pedone;113;130;2
+2012;3;Scontro frontale;17;26;1
+2012;3;Scontro frontale - laterale;310;444;0
+2012;3;Scontro laterale;125;148;0
+2012;3;Tamponamento;117;175;0
+2012;3;Urto con ostacolo;52;56;0
+2012;3;Urto con veicolo in fermata o sosta;94;124;0
+2012;4;Altre cause;14;15;0
+2012;4;Fuoriuscita, sbandamento;92;101;0
+2012;4;Investimento pedone;100;119;3
+2012;4;Scontro frontale;13;25;0
+2012;4;Scontro frontale - laterale;270;424;1
+2012;4;Scontro laterale;79;97;1
+2012;4;Tamponamento;95;139;0
+2012;4;Urto con ostacolo;54;64;1
+2012;4;Urto con veicolo in fermata o sosta;92;133;0
+2012;5;Altre cause;24;27;0
+2012;5;Fuoriuscita, sbandamento;111;114;1
+2012;5;Investimento pedone;148;172;2
+2012;5;Scontro frontale;11;19;0
+2012;5;Scontro frontale - laterale;329;465;1
+2012;5;Scontro laterale;111;131;1
+2012;5;Tamponamento;136;227;0
+2012;5;Urto con ostacolo;62;74;0
+2012;5;Urto con veicolo in fermata o sosta;115;155;0
+2012;6;Altre cause;18;19;0
+2012;6;Fuoriuscita, sbandamento;129;139;0
+2012;6;Investimento pedone;130;160;3
+2012;6;Scontro frontale;9;9;1
+2012;6;Scontro frontale - laterale;288;413;1
+2012;6;Scontro laterale;125;145;1
+2012;6;Tamponamento;104;164;0
+2012;6;Urto con ostacolo;69;86;1
+2012;6;Urto con veicolo in fermata o sosta;103;147;0
+2012;7;Altre cause;11;12;0
+2012;7;Fuoriuscita, sbandamento;134;144;2
+2012;7;Investimento pedone;102;118;0
+2012;7;Scontro frontale;17;25;0
+2012;7;Scontro frontale - laterale;295;420;2
+2012;7;Scontro laterale;97;115;1
+2012;7;Tamponamento;86;107;0
+2012;7;Urto con ostacolo;62;74;0
+2012;7;Urto con veicolo in fermata o sosta;98;126;1
+2012;8;Altre cause;14;15;0
+2012;8;Fuoriuscita, sbandamento;83;91;0
+2012;8;Investimento pedone;59;71;1
+2012;8;Scontro frontale;6;10;0
+2012;8;Scontro frontale - laterale;168;282;1
+2012;8;Scontro laterale;58;78;0
+2012;8;Tamponamento;52;79;0
+2012;8;Urto con ostacolo;35;43;0
+2012;8;Urto con veicolo in fermata o sosta;43;50;0
+2012;9;Altre cause;9;9;0
+2012;9;Fuoriuscita, sbandamento;121;130;0
+2012;9;Investimento pedone;112;124;1
+2012;9;Scontro frontale;10;13;0
+2012;9;Scontro frontale - laterale;268;385;3
+2012;9;Scontro laterale;72;95;0
+2012;9;Tamponamento;99;151;0
+2012;9;Urto con ostacolo;45;54;0
+2012;9;Urto con veicolo in fermata o sosta;118;150;0
+2012;10;Altre cause;20;21;0
+2012;10;Fuoriuscita, sbandamento;161;173;0
+2012;10;Investimento pedone;174;206;0
+2012;10;Scontro frontale;25;44;0
+2012;10;Scontro frontale - laterale;283;397;2
+2012;10;Scontro laterale;126;155;0
+2012;10;Tamponamento;133;220;0
+2012;10;Urto con ostacolo;58;67;3
+2012;10;Urto con veicolo in fermata o sosta;112;136;1
+2012;11;Altre cause;6;6;0
+2012;11;Fuoriuscita, sbandamento;141;150;0
+2012;11;Investimento pedone;160;190;3
+2012;11;Scontro frontale;17;25;0
+2012;11;Scontro frontale - laterale;300;454;0
+2012;11;Scontro laterale;103;128;0
+2012;11;Tamponamento;101;173;0
+2012;11;Urto con ostacolo;70;88;0
+2012;11;Urto con veicolo in fermata o sosta;101;135;1
+2012;12;Altre cause;10;11;0
+2012;12;Fuoriuscita, sbandamento;133;138;0
+2012;12;Investimento pedone;145;175;2
+2012;12;Scontro frontale;11;18;0
+2012;12;Scontro frontale - laterale;235;349;1
+2012;12;Scontro laterale;58;69;0
+2012;12;Tamponamento;83;135;0
+2012;12;Urto con ostacolo;46;54;0
+2012;12;Urto con veicolo in fermata o sosta;65;79;1
+2013;1;Altre cause;8;12;0
+2013;1;Fuoriuscita, sbandamento;93;95;1
+2013;1;Investimento pedone;130;147;1
+2013;1;Scontro frontale;13;20;0
+2013;1;Scontro frontale - laterale;210;331;1
+2013;1;Scontro laterale;62;75;0
+2013;1;Tamponamento;83;137;0
+2013;1;Urto con ostacolo;41;45;1
+2013;1;Urto con veicolo in fermata o sosta;67;81;0
+2013;2;Altre cause;9;10;0
+2013;2;Fuoriuscita, sbandamento;84;93;0
+2013;2;Investimento pedone;116;140;1
+2013;2;Scontro frontale;12;19;0
+2013;2;Scontro frontale - laterale;193;266;1
+2013;2;Scontro laterale;54;64;0
+2013;2;Tamponamento;76;119;0
+2013;2;Urto con ostacolo;50;57;0
+2013;2;Urto con veicolo in fermata o sosta;82;112;0
+2013;3;Altre cause;5;5;0
+2013;3;Fuoriuscita, sbandamento;69;74;0
+2013;3;Investimento pedone;110;125;1
+2013;3;Scontro frontale;14;21;0
+2013;3;Scontro frontale - laterale;247;376;0
+2013;3;Scontro laterale;80;94;0
+2013;3;Tamponamento;112;170;0
+2013;3;Urto con ostacolo;60;67;1
+2013;3;Urto con veicolo in fermata o sosta;58;79;0
+2013;4;Altre cause;3;3;0
+2013;4;Fuoriuscita, sbandamento;101;106;0
+2013;4;Investimento pedone;100;119;0
+2013;4;Scontro frontale;15;26;0
+2013;4;Scontro frontale - laterale;243;360;2
+2013;4;Scontro laterale;72;83;0
+2013;4;Tamponamento;96;150;0
+2013;4;Urto con ostacolo;72;90;0
+2013;4;Urto con veicolo in fermata o sosta;75;91;0
+2013;5;Altre cause;5;6;0
+2013;5;Fuoriuscita, sbandamento;110;119;0
+2013;5;Investimento pedone;112;133;0
+2013;5;Scontro frontale;16;23;0
+2013;5;Scontro frontale - laterale;272;401;1
+2013;5;Scontro laterale;82;91;0
+2013;5;Tamponamento;101;157;0
+2013;5;Urto con ostacolo;79;89;0
+2013;5;Urto con veicolo in fermata o sosta;109;149;0
+2013;6;Altre cause;9;9;0
+2013;6;Fuoriuscita, sbandamento;146;160;1
+2013;6;Investimento pedone;123;154;1
+2013;6;Scontro frontale;15;22;0
+2013;6;Scontro frontale - laterale;297;423;0
+2013;6;Scontro laterale;96;112;0
+2013;6;Tamponamento;110;175;0
+2013;6;Urto con ostacolo;70;81;0
+2013;6;Urto con veicolo in fermata o sosta;101;131;0
+2013;7;Altre cause;8;11;0
+2013;7;Fuoriuscita, sbandamento;137;146;0
+2013;7;Investimento pedone;93;116;1
+2013;7;Scontro frontale;11;14;0
+2013;7;Scontro frontale - laterale;278;388;1
+2013;7;Scontro laterale;100;117;0
+2013;7;Tamponamento;91;133;0
+2013;7;Urto con ostacolo;51;60;0
+2013;7;Urto con veicolo in fermata o sosta;111;135;0
+2013;8;Altre cause;1;1;0
+2013;8;Fuoriuscita, sbandamento;85;90;1
+2013;8;Investimento pedone;37;48;0
+2013;8;Scontro frontale;9;15;0
+2013;8;Scontro frontale - laterale;156;235;0
+2013;8;Scontro laterale;53;62;0
+2013;8;Tamponamento;50;75;0
+2013;8;Urto con ostacolo;47;60;0
+2013;8;Urto con veicolo in fermata o sosta;45;60;0
+2013;9;Altre cause;15;15;0
+2013;9;Fuoriuscita, sbandamento;124;134;0
+2013;9;Investimento pedone;121;146;1
+2013;9;Scontro frontale;18;29;0
+2013;9;Scontro frontale - laterale;242;344;0
+2013;9;Scontro laterale;94;124;0
+2013;9;Tamponamento;113;169;0
+2013;9;Urto con ostacolo;59;71;0
+2013;9;Urto con veicolo in fermata o sosta;84;110;1
+2013;10;Altre cause;14;14;0
+2013;10;Fuoriuscita, sbandamento;157;168;0
+2013;10;Investimento pedone;148;171;3
+2013;10;Scontro frontale;15;27;1
+2013;10;Scontro frontale - laterale;287;440;0
+2013;10;Scontro laterale;98;119;0
+2013;10;Tamponamento;119;189;0
+2013;10;Urto con ostacolo;52;63;0
+2013;10;Urto con veicolo in fermata o sosta;104;130;0
+2013;11;Altre cause;5;6;0
+2013;11;Fuoriuscita, sbandamento;147;157;0
+2013;11;Investimento pedone;154;179;2
+2013;11;Scontro frontale;10;18;0
+2013;11;Scontro frontale - laterale;237;330;1
+2013;11;Scontro laterale;68;75;0
+2013;11;Tamponamento;80;116;0
+2013;11;Urto con ostacolo;60;72;1
+2013;11;Urto con veicolo in fermata o sosta;97;139;0
+2013;12;Altre cause;5;7;0
+2013;12;Fuoriuscita, sbandamento;92;98;0
+2013;12;Investimento pedone;166;190;2
+2013;12;Scontro frontale;15;22;0
+2013;12;Scontro frontale - laterale;230;336;0
+2013;12;Scontro laterale;66;77;0
+2013;12;Tamponamento;79;133;0
+2013;12;Urto con ostacolo;61;81;0
+2013;12;Urto con veicolo in fermata o sosta;68;89;1
+2014;1;Altre cause;2;2;0
+2014;1;Fuoriuscita, sbandamento;68;70;0
+2014;1;Investimento pedone;135;161;0
+2014;1;Scontro frontale;11;14;0
+2014;1;Scontro frontale - laterale;178;265;0
+2014;1;Scontro laterale;50;63;2
+2014;1;Tamponamento;69;114;0
+2014;1;Urto con ostacolo;51;58;0
+2014;1;Urto con veicolo in fermata o sosta;72;89;0
+2014;2;Altre cause;4;4;0
+2014;2;Fuoriuscita, sbandamento;54;57;0
+2014;2;Investimento pedone;136;158;1
+2014;2;Scontro frontale;16;29;0
+2014;2;Scontro frontale - laterale;209;315;0
+2014;2;Scontro laterale;62;82;0
+2014;2;Tamponamento;67;101;0
+2014;2;Urto con ostacolo;70;77;1
+2014;2;Urto con veicolo in fermata o sosta;66;76;0
+2014;3;Altre cause;8;10;0
+2014;3;Fuoriuscita, sbandamento;74;78;0
+2014;3;Investimento pedone;130;159;1
+2014;3;Scontro frontale;16;21;1
+2014;3;Scontro frontale - laterale;228;335;0
+2014;3;Scontro laterale;91;104;0
+2014;3;Tamponamento;73;101;0
+2014;3;Urto con ostacolo;56;68;0
+2014;3;Urto con veicolo in fermata o sosta;83;103;0
+2014;4;Altre cause;12;13;0
+2014;4;Fuoriuscita, sbandamento;121;123;1
+2014;4;Investimento pedone;124;145;1
+2014;4;Scontro frontale;6;11;0
+2014;4;Scontro frontale - laterale;248;370;0
+2014;4;Scontro laterale;77;86;0
+2014;4;Tamponamento;91;148;1
+2014;4;Urto con ostacolo;69;77;1
+2014;4;Urto con veicolo in fermata o sosta;89;107;0
+2014;5;Altre cause;9;9;0
+2014;5;Fuoriuscita, sbandamento;130;137;1
+2014;5;Investimento pedone;138;153;1
+2014;5;Scontro frontale;10;19;0
+2014;5;Scontro frontale - laterale;262;353;3
+2014;5;Scontro laterale;95;106;1
+2014;5;Tamponamento;101;154;0
+2014;5;Urto con ostacolo;63;73;0
+2014;5;Urto con veicolo in fermata o sosta;78;91;0
+2014;6;Altre cause;4;5;0
+2014;6;Fuoriuscita, sbandamento;141;150;1
+2014;6;Investimento pedone;114;131;1
+2014;6;Scontro frontale;10;13;0
+2014;6;Scontro frontale - laterale;265;384;4
+2014;6;Scontro laterale;76;94;0
+2014;6;Tamponamento;76;125;0
+2014;6;Urto con ostacolo;55;69;0
+2014;6;Urto con veicolo in fermata o sosta;83;108;0
+2014;7;Altre cause;5;5;0
+2014;7;Fuoriuscita, sbandamento;110;119;0
+2014;7;Investimento pedone;91;104;4
+2014;7;Scontro frontale;14;18;0
+2014;7;Scontro frontale - laterale;241;345;1
+2014;7;Scontro laterale;81;101;0
+2014;7;Tamponamento;82;132;0
+2014;7;Urto con ostacolo;55;74;1
+2014;7;Urto con veicolo in fermata o sosta;90;118;0
+2014;8;Altre cause;2;2;0
+2014;8;Fuoriuscita, sbandamento;60;67;0
+2014;8;Investimento pedone;43;51;0
+2014;8;Scontro frontale;3;8;0
+2014;8;Scontro frontale - laterale;125;198;1
+2014;8;Scontro laterale;42;50;0
+2014;8;Tamponamento;37;55;0
+2014;8;Urto con ostacolo;26;31;0
+2014;8;Urto con veicolo in fermata o sosta;38;48;0
+2014;9;Altre cause;1;1;0
+2014;9;Fuoriuscita, sbandamento;98;106;1
+2014;9;Investimento pedone;108;132;1
+2014;9;Scontro frontale;18;20;0
+2014;9;Scontro frontale - laterale;251;365;0
+2014;9;Scontro laterale;94;120;0
+2014;9;Tamponamento;85;124;0
+2014;9;Urto con ostacolo;40;51;1
+2014;9;Urto con veicolo in fermata o sosta;90;102;0
+2014;10;Altre cause;5;9;0
+2014;10;Fuoriuscita, sbandamento;117;134;0
+2014;10;Investimento pedone;152;179;2
+2014;10;Scontro frontale;6;7;0
+2014;10;Scontro frontale - laterale;282;410;0
+2014;10;Scontro laterale;90;99;0
+2014;10;Tamponamento;86;128;0
+2014;10;Urto con ostacolo;43;54;1
+2014;10;Urto con veicolo in fermata o sosta;94;123;0
+2014;11;Altre cause;2;5;0
+2014;11;Fuoriuscita, sbandamento;92;95;1
+2014;11;Investimento pedone;161;188;1
+2014;11;Scontro frontale;13;14;0
+2014;11;Scontro frontale - laterale;224;334;0
+2014;11;Scontro laterale;59;72;0
+2014;11;Tamponamento;63;89;0
+2014;11;Urto con ostacolo;53;62;0
+2014;11;Urto con veicolo in fermata o sosta;63;86;0
+2014;12;Altre cause;6;7;0
+2014;12;Fuoriuscita, sbandamento;84;88;0
+2014;12;Investimento pedone;129;155;2
+2014;12;Scontro frontale;11;15;0
+2014;12;Scontro frontale - laterale;193;275;0
+2014;12;Scontro laterale;59;65;0
+2014;12;Tamponamento;70;113;0
+2014;12;Urto con ostacolo;47;52;0
+2014;12;Urto con veicolo in fermata o sosta;80;118;0
+2015;1;Altre cause;2;2;0
+2015;1;Fuoriuscita, sbandamento;74;78;0
+2015;1;Investimento pedone;131;148;1
+2015;1;Scontro frontale;11;15;0
+2015;1;Scontro frontale - laterale;207;305;0
+2015;1;Scontro laterale;63;71;0
+2015;1;Tamponamento;59;91;0
+2015;1;Urto con ostacolo;45;57;1
+2015;1;Urto con veicolo in fermata o sosta;60;78;0
+2015;2;Altre cause;6;6;0
+2015;2;Fuoriuscita, sbandamento;57;62;0
+2015;2;Investimento pedone;128;148;3
+2015;2;Scontro frontale;12;18;0
+2015;2;Scontro frontale - laterale;198;289;1
+2015;2;Scontro laterale;60;74;0
+2015;2;Tamponamento;51;70;0
+2015;2;Urto con ostacolo;55;68;2
+2015;2;Urto con veicolo in fermata o sosta;64;76;0
+2015;3;Altre cause;11;16;0
+2015;3;Fuoriuscita, sbandamento;85;93;1
+2015;3;Investimento pedone;106;121;1
+2015;3;Scontro frontale;17;25;0
+2015;3;Scontro frontale - laterale;215;328;1
+2015;3;Scontro laterale;86;94;1
+2015;3;Tamponamento;82;136;0
+2015;3;Urto con ostacolo;33;39;1
+2015;3;Urto con veicolo in fermata o sosta;89;115;0
+2015;4;Altre cause;8;11;0
+2015;4;Fuoriuscita, sbandamento;90;93;0
+2015;4;Investimento pedone;100;117;1
+2015;4;Scontro frontale;19;30;1
+2015;4;Scontro frontale - laterale;238;353;0
+2015;4;Scontro laterale;100;112;0
+2015;4;Tamponamento;78;127;0
+2015;4;Urto con ostacolo;45;55;0
+2015;4;Urto con veicolo in fermata o sosta;85;103;0
+2015;5;Altre cause;7;9;0
+2015;5;Fuoriuscita, sbandamento;106;119;1
+2015;5;Investimento pedone;108;119;3
+2015;5;Scontro frontale;14;20;0
+2015;5;Scontro frontale - laterale;265;397;1
+2015;5;Scontro laterale;89;103;0
+2015;5;Tamponamento;78;138;0
+2015;5;Urto con ostacolo;67;79;0
+2015;5;Urto con veicolo in fermata o sosta;92;114;0
+2015;6;Altre cause;2;2;0
+2015;6;Fuoriuscita, sbandamento;109;125;1
+2015;6;Investimento pedone;108;125;3
+2015;6;Scontro frontale;14;22;0
+2015;6;Scontro frontale - laterale;241;353;2
+2015;6;Scontro laterale;104;130;0
+2015;6;Tamponamento;76;110;0
+2015;6;Urto con ostacolo;45;52;1
+2015;6;Urto con veicolo in fermata o sosta;93;121;0
+2015;7;Altre cause;6;7;0
+2015;7;Fuoriuscita, sbandamento;95;105;0
+2015;7;Investimento pedone;79;92;1
+2015;7;Scontro frontale;14;19;0
+2015;7;Scontro frontale - laterale;287;387;0
+2015;7;Scontro laterale;93;105;0
+2015;7;Tamponamento;94;148;0
+2015;7;Urto con ostacolo;53;56;1
+2015;7;Urto con veicolo in fermata o sosta;87;120;0
+2015;8;Altre cause;1;1;0
+2015;8;Fuoriuscita, sbandamento;62;67;0
+2015;8;Investimento pedone;43;53;0
+2015;8;Scontro frontale;8;12;0
+2015;8;Scontro frontale - laterale;120;175;0
+2015;8;Scontro laterale;32;40;1
+2015;8;Tamponamento;42;59;0
+2015;8;Urto con ostacolo;37;45;1
+2015;8;Urto con veicolo in fermata o sosta;40;54;1
+2015;9;Altre cause;8;9;0
+2015;9;Fuoriuscita, sbandamento;92;97;0
+2015;9;Investimento pedone;115;138;1
+2015;9;Scontro frontale;12;17;0
+2015;9;Scontro frontale - laterale;231;323;0
+2015;9;Scontro laterale;87;100;0
+2015;9;Tamponamento;87;145;0
+2015;9;Urto con ostacolo;49;56;2
+2015;9;Urto con veicolo in fermata o sosta;83;107;0
+2015;10;Altre cause;13;17;0
+2015;10;Fuoriuscita, sbandamento;111;121;0
+2015;10;Investimento pedone;137;175;1
+2015;10;Scontro frontale;21;31;0
+2015;10;Scontro frontale - laterale;279;403;3
+2015;10;Scontro laterale;92;116;0
+2015;10;Tamponamento;91;144;0
+2015;10;Urto con ostacolo;51;61;2
+2015;10;Urto con veicolo in fermata o sosta;86;101;0
+2015;11;Altre cause;6;9;0
+2015;11;Fuoriuscita, sbandamento;87;92;0
+2015;11;Investimento pedone;130;155;1
+2015;11;Scontro frontale;16;23;0
+2015;11;Scontro frontale - laterale;237;343;0
+2015;11;Scontro laterale;90;98;1
+2015;11;Tamponamento;98;131;0
+2015;11;Urto con ostacolo;38;44;1
+2015;11;Urto con veicolo in fermata o sosta;74;93;0
+2015;12;Altre cause;3;3;0
+2015;12;Fuoriuscita, sbandamento;71;76;1
+2015;12;Investimento pedone;110;130;3
+2015;12;Scontro frontale;11;15;0
+2015;12;Scontro frontale - laterale;187;275;0
+2015;12;Scontro laterale;68;83;0
+2015;12;Tamponamento;70;106;0
+2015;12;Urto con ostacolo;42;49;0
+2015;12;Urto con veicolo in fermata o sosta;63;78;1
+2016;1;Altre cause;3;3;0
+2016;1;Fuoriuscita, sbandamento;85;94;0
+2016;1;Investimento pedone;126;141;3
+2016;1;Scontro frontale;5;10;0
+2016;1;Scontro frontale - laterale;187;287;3
+2016;1;Scontro laterale;49;54;1
+2016;1;Tamponamento;79;132;0
+2016;1;Urto con ostacolo;48;55;0
+2016;1;Urto con veicolo in fermata o sosta;55;68;0
+2016;2;Altre cause;5;5;0
+2016;2;Fuoriuscita, sbandamento;82;86;0
+2016;2;Investimento pedone;140;170;0
+2016;2;Scontro frontale;9;18;0
+2016;2;Scontro frontale - laterale;199;302;1
+2016;2;Scontro laterale;70;94;0
+2016;2;Tamponamento;91;150;0
+2016;2;Urto con ostacolo;29;32;0
+2016;2;Urto con veicolo in fermata o sosta;81;113;0
+2016;3;Altre cause;2;2;0
+2016;3;Fuoriuscita, sbandamento;80;88;0
+2016;3;Investimento pedone;104;127;1
+2016;3;Scontro frontale;11;18;0
+2016;3;Scontro frontale - laterale;261;410;1
+2016;3;Scontro laterale;81;96;0
+2016;3;Tamponamento;79;124;0
+2016;3;Urto con ostacolo;38;49;0
+2016;3;Urto con veicolo in fermata o sosta;72;97;0
+2016;4;Altre cause;5;8;0
+2016;4;Fuoriuscita, sbandamento;88;98;0
+2016;4;Investimento pedone;126;141;0
+2016;4;Scontro frontale;12;25;0
+2016;4;Scontro frontale - laterale;279;391;0
+2016;4;Scontro laterale;97;125;0
+2016;4;Tamponamento;83;127;0
+2016;4;Urto con ostacolo;39;45;1
+2016;4;Urto con veicolo in fermata o sosta;92;113;1
+2016;5;Altre cause;6;6;0
+2016;5;Fuoriuscita, sbandamento;107;116;0
+2016;5;Investimento pedone;130;146;1
+2016;5;Scontro frontale;7;10;0
+2016;5;Scontro frontale - laterale;293;443;0
+2016;5;Scontro laterale;92;111;0
+2016;5;Tamponamento;90;154;0
+2016;5;Urto con ostacolo;52;68;0
+2016;5;Urto con veicolo in fermata o sosta;89;114;1
+2016;6;Altre cause;7;7;0
+2016;6;Fuoriuscita, sbandamento;83;92;0
+2016;6;Investimento pedone;126;144;2
+2016;6;Scontro frontale;18;24;1
+2016;6;Scontro frontale - laterale;245;350;2
+2016;6;Scontro laterale;86;107;0
+2016;6;Tamponamento;89;131;0
+2016;6;Urto con ostacolo;41;44;0
+2016;6;Urto con veicolo in fermata o sosta;72;88;0
+2016;7;Altre cause;4;4;0
+2016;7;Fuoriuscita, sbandamento;97;106;1
+2016;7;Investimento pedone;99;117;0
+2016;7;Scontro frontale;13;19;0
+2016;7;Scontro frontale - laterale;241;350;1
+2016;7;Scontro laterale;92;108;0
+2016;7;Tamponamento;93;137;0
+2016;7;Urto con ostacolo;46;54;2
+2016;7;Urto con veicolo in fermata o sosta;85;119;0
+2016;8;Altre cause;3;3;0
+2016;8;Fuoriuscita, sbandamento;48;53;0
+2016;8;Investimento pedone;58;69;1
+2016;8;Scontro frontale;6;13;0
+2016;8;Scontro frontale - laterale;149;216;0
+2016;8;Scontro laterale;34;44;0
+2016;8;Tamponamento;44;72;0
+2016;8;Urto con ostacolo;28;35;0
+2016;8;Urto con veicolo in fermata o sosta;59;80;0
+2016;9;Altre cause;11;15;0
+2016;9;Fuoriuscita, sbandamento;106;115;2
+2016;9;Investimento pedone;103;128;2
+2016;9;Scontro frontale;15;26;1
+2016;9;Scontro frontale - laterale;243;349;0
+2016;9;Scontro laterale;93;110;0
+2016;9;Tamponamento;83;133;0
+2016;9;Urto con ostacolo;43;52;0
+2016;9;Urto con veicolo in fermata o sosta;77;99;0
+2016;10;Altre cause;6;9;0
+2016;10;Fuoriuscita, sbandamento;122;133;0
+2016;10;Investimento pedone;136;170;0
+2016;10;Scontro frontale;13;14;1
+2016;10;Scontro frontale - laterale;275;363;1
+2016;10;Scontro laterale;96;115;1
+2016;10;Tamponamento;88;138;0
+2016;10;Urto con ostacolo;56;67;0
+2016;10;Urto con veicolo in fermata o sosta;81;102;0
+2016;11;Altre cause;3;3;0
+2016;11;Fuoriuscita, sbandamento;81;88;0
+2016;11;Investimento pedone;162;190;6
+2016;11;Scontro frontale;12;14;0
+2016;11;Scontro frontale - laterale;244;363;1
+2016;11;Scontro laterale;70;86;0
+2016;11;Tamponamento;96;146;0
+2016;11;Urto con ostacolo;70;83;0
+2016;11;Urto con veicolo in fermata o sosta;81;107;1
+2016;12;Altre cause;4;4;0
+2016;12;Fuoriuscita, sbandamento;58;63;0
+2016;12;Investimento pedone;105;119;3
+2016;12;Scontro frontale;5;5;0
+2016;12;Scontro frontale - laterale;200;304;1
+2016;12;Scontro laterale;62;70;0
+2016;12;Tamponamento;52;71;0
+2016;12;Urto con ostacolo;38;43;0
+2016;12;Urto con veicolo in fermata o sosta;56;72;1
+2017;1;Altre cause;6;6;0
+2017;1;Fuoriuscita, sbandamento;54;56;0
+2017;1;Investimento pedone;96;116;1
+2017;1;Scontro frontale;6;10;0
+2017;1;Scontro frontale - laterale;190;272;0
+2017;1;Scontro laterale;49;55;0
+2017;1;Tamponamento;69;99;0
+2017;1;Urto con ostacolo;32;33;2
+2017;1;Urto con veicolo in fermata o sosta;60;78;0
+2017;2;Altre cause;7;7;0
+2017;2;Fuoriuscita, sbandamento;59;63;0
+2017;2;Investimento pedone;124;143;2
+2017;2;Scontro frontale;6;10;0
+2017;2;Scontro frontale - laterale;184;282;1
+2017;2;Scontro laterale;51;65;0
+2017;2;Tamponamento;53;83;0
+2017;2;Urto con ostacolo;43;45;1
+2017;2;Urto con veicolo in fermata o sosta;70;90;0
+2017;3;Altre cause;5;6;0
+2017;3;Fuoriuscita, sbandamento;80;90;0
+2017;3;Investimento pedone;136;167;1
+2017;3;Scontro frontale;10;15;0
+2017;3;Scontro frontale - laterale;264;365;1
+2017;3;Scontro laterale;82;87;0
+2017;3;Tamponamento;95;144;0
+2017;3;Urto con ostacolo;36;39;1
+2017;3;Urto con veicolo in fermata o sosta;80;103;0
+2017;4;Altre cause;2;2;0
+2017;4;Fuoriuscita, sbandamento;97;104;0
+2017;4;Investimento pedone;96;111;1
+2017;4;Scontro frontale;17;23;0
+2017;4;Scontro frontale - laterale;234;362;2
+2017;4;Scontro laterale;77;88;0
+2017;4;Tamponamento;82;128;0
+2017;4;Urto con ostacolo;38;46;1
+2017;4;Urto con veicolo in fermata o sosta;74;90;0
+2017;5;Altre cause;7;8;0
+2017;5;Fuoriuscita, sbandamento;83;92;0
+2017;5;Investimento pedone;118;137;3
+2017;5;Scontro frontale;15;18;0
+2017;5;Scontro frontale - laterale;241;345;0
+2017;5;Scontro laterale;83;101;0
+2017;5;Tamponamento;89;133;0
+2017;5;Urto con ostacolo;50;63;0
+2017;5;Urto con veicolo in fermata o sosta;108;129;1
+2017;6;Altre cause;9;11;0
+2017;6;Fuoriuscita, sbandamento;93;105;0
+2017;6;Investimento pedone;111;128;0
+2017;6;Scontro frontale;5;5;0
+2017;6;Scontro frontale - laterale;248;359;1
+2017;6;Scontro laterale;90;106;0
+2017;6;Tamponamento;73;99;0
+2017;6;Urto con ostacolo;48;59;0
+2017;6;Urto con veicolo in fermata o sosta;82;99;0
+2017;7;Altre cause;5;5;0
+2017;7;Fuoriuscita, sbandamento;89;96;1
+2017;7;Investimento pedone;74;87;0
+2017;7;Scontro frontale;15;19;1
+2017;7;Scontro frontale - laterale;225;330;1
+2017;7;Scontro laterale;70;79;1
+2017;7;Tamponamento;83;128;0
+2017;7;Urto con ostacolo;55;62;3
+2017;7;Urto con veicolo in fermata o sosta;75;92;0
+2017;8;Altre cause;4;10;0
+2017;8;Fuoriuscita, sbandamento;60;64;0
+2017;8;Investimento pedone;43;46;0
+2017;8;Scontro frontale;7;9;0
+2017;8;Scontro frontale - laterale;151;229;0
+2017;8;Scontro laterale;45;48;0
+2017;8;Tamponamento;42;65;0
+2017;8;Urto con ostacolo;41;51;1
+2017;8;Urto con veicolo in fermata o sosta;35;43;1
+2017;9;Altre cause;5;6;0
+2017;9;Fuoriuscita, sbandamento;95;105;0
+2017;9;Investimento pedone;129;156;4
+2017;9;Scontro frontale;9;15;0
+2017;9;Scontro frontale - laterale;228;336;0
+2017;9;Scontro laterale;98;115;1
+2017;9;Tamponamento;73;112;0
+2017;9;Urto con ostacolo;40;44;0
+2017;9;Urto con veicolo in fermata o sosta;69;89;0
+2017;10;Altre cause;6;6;0
+2017;10;Fuoriuscita, sbandamento;84;89;0
+2017;10;Investimento pedone;139;164;0
+2017;10;Scontro frontale;14;24;0
+2017;10;Scontro frontale - laterale;261;361;1
+2017;10;Scontro laterale;81;96;0
+2017;10;Tamponamento;75;119;1
+2017;10;Urto con ostacolo;38;47;0
+2017;10;Urto con veicolo in fermata o sosta;92;123;0
+2017;11;Altre cause;6;6;0
+2017;11;Fuoriuscita, sbandamento;92;97;0
+2017;11;Investimento pedone;126;145;1
+2017;11;Scontro frontale;14;15;1
+2017;11;Scontro frontale - laterale;267;378;0
+2017;11;Scontro laterale;70;89;1
+2017;11;Tamponamento;77;109;0
+2017;11;Urto con ostacolo;42;53;0
+2017;11;Urto con veicolo in fermata o sosta;79;96;0
+2017;12;Altre cause;3;3;0
+2017;12;Fuoriuscita, sbandamento;69;70;0
+2017;12;Investimento pedone;139;157;6
+2017;12;Scontro frontale;6;7;0
+2017;12;Scontro frontale - laterale;196;268;2
+2017;12;Scontro laterale;59;70;0
+2017;12;Tamponamento;76;107;0
+2017;12;Urto con ostacolo;46;56;0
+2017;12;Urto con veicolo in fermata o sosta;58;72;1
+2018;1;Altre cause;4;4;0
+2018;1;Fuoriuscita, sbandamento;88;92;1
+2018;1;Investimento pedone;124;144;4
+2018;1;Scontro frontale;17;23;0
+2018;1;Scontro frontale - laterale;194;296;3
+2018;1;Scontro laterale;69;80;0
+2018;1;Tamponamento;44;73;0
+2018;1;Urto con ostacolo;31;37;0
+2018;1;Urto con veicolo in fermata o sosta;64;88;0
+2018;2;Altre cause;9;9;0
+2018;2;Fuoriuscita, sbandamento;72;76;0
+2018;2;Investimento pedone;123;143;2
+2018;2;Scontro frontale;9;14;0
+2018;2;Scontro frontale - laterale;189;275;0
+2018;2;Scontro laterale;44;51;0
+2018;2;Tamponamento;72;110;0
+2018;2;Urto con ostacolo;43;57;0
+2018;2;Urto con veicolo in fermata o sosta;66;84;1
+2018;3;Altre cause;2;2;0
+2018;3;Fuoriuscita, sbandamento;70;75;0
+2018;3;Investimento pedone;134;152;1
+2018;3;Scontro frontale;9;11;0
+2018;3;Scontro frontale - laterale;180;272;0
+2018;3;Scontro laterale;69;77;0
+2018;3;Tamponamento;79;116;0
+2018;3;Urto con ostacolo;47;53;1
+2018;3;Urto con veicolo in fermata o sosta;63;84;0
+2018;4;Altre cause;7;8;0
+2018;4;Fuoriuscita, sbandamento;66;72;0
+2018;4;Investimento pedone;131;159;1
+2018;4;Scontro frontale;10;19;0
+2018;4;Scontro frontale - laterale;215;319;1
+2018;4;Scontro laterale;54;61;0
+2018;4;Tamponamento;80;136;0
+2018;4;Urto con ostacolo;40;48;0
+2018;4;Urto con veicolo in fermata o sosta;72;86;0
+2018;5;Altre cause;10;16;0
+2018;5;Fuoriuscita, sbandamento;88;95;0
+2018;5;Investimento pedone;123;141;2
+2018;5;Scontro frontale;18;26;0
+2018;5;Scontro frontale - laterale;229;346;2
+2018;5;Scontro laterale;89;101;0
+2018;5;Tamponamento;98;141;0
+2018;5;Urto con ostacolo;68;76;0
+2018;5;Urto con veicolo in fermata o sosta;78;94;0
+2018;6;Altre cause;6;6;0
+2018;6;Fuoriuscita, sbandamento;95;100;0
+2018;6;Investimento pedone;105;121;2
+2018;6;Scontro frontale;8;11;0
+2018;6;Scontro frontale - laterale;261;349;0
+2018;6;Scontro laterale;102;118;0
+2018;6;Tamponamento;96;139;0
+2018;6;Urto con ostacolo;49;54;0
+2018;6;Urto con veicolo in fermata o sosta;72;91;0
+2018;7;Altre cause;3;4;0
+2018;7;Fuoriuscita, sbandamento;78;90;0
+2018;7;Investimento pedone;71;86;2
+2018;7;Scontro frontale;16;28;0
+2018;7;Scontro frontale - laterale;221;338;0
+2018;7;Scontro laterale;88;110;0
+2018;7;Tamponamento;80;134;0
+2018;7;Urto con ostacolo;36;50;0
+2018;7;Urto con veicolo in fermata o sosta;74;89;0
+2018;8;Altre cause;2;2;0
+2018;8;Fuoriuscita, sbandamento;52;61;0
+2018;8;Investimento pedone;47;54;1
+2018;8;Scontro frontale;5;8;0
+2018;8;Scontro frontale - laterale;137;197;1
+2018;8;Scontro laterale;35;37;0
+2018;8;Tamponamento;36;46;0
+2018;8;Urto con ostacolo;32;45;0
+2018;8;Urto con veicolo in fermata o sosta;23;25;0
+2018;9;Altre cause;7;9;0
+2018;9;Fuoriuscita, sbandamento;96;103;0
+2018;9;Investimento pedone;104;120;3
+2018;9;Scontro frontale;11;16;0
+2018;9;Scontro frontale - laterale;245;353;4
+2018;9;Scontro laterale;75;89;0
+2018;9;Tamponamento;97;147;0
+2018;9;Urto con ostacolo;43;60;0
+2018;9;Urto con veicolo in fermata o sosta;80;94;0
+2018;10;Altre cause;4;4;0
+2018;10;Fuoriuscita, sbandamento;104;113;1
+2018;10;Investimento pedone;164;188;3
+2018;10;Scontro frontale;6;8;0
+2018;10;Scontro frontale - laterale;255;353;2
+2018;10;Scontro laterale;86;106;0
+2018;10;Tamponamento;86;127;0
+2018;10;Urto con ostacolo;47;52;1
+2018;10;Urto con veicolo in fermata o sosta;85;108;0
+2018;11;Altre cause;7;7;0
+2018;11;Fuoriuscita, sbandamento;88;92;0
+2018;11;Investimento pedone;149;170;2
+2018;11;Scontro frontale;7;8;0
+2018;11;Scontro frontale - laterale;239;316;1
+2018;11;Scontro laterale;71;85;0
+2018;11;Tamponamento;97;143;0
+2018;11;Urto con ostacolo;61;76;0
+2018;11;Urto con veicolo in fermata o sosta;63;71;0
+2018;12;Altre cause;4;4;0
+2018;12;Fuoriuscita, sbandamento;68;74;0
+2018;12;Investimento pedone;121;139;2
+2018;12;Scontro frontale;7;14;0
+2018;12;Scontro frontale - laterale;213;311;0
+2018;12;Scontro laterale;67;75;0
+2018;12;Tamponamento;63;97;1
+2018;12;Urto con ostacolo;47;55;1
+2018;12;Urto con veicolo in fermata o sosta;66;87;0
+2019;1;Altre cause;6;6;0
+2019;1;Fuoriuscita, sbandamento;80;85;0
+2019;1;Investimento pedone;114;128;1
+2019;1;Scontro frontale;10;23;0
+2019;1;Scontro frontale - laterale;178;249;1
+2019;1;Scontro laterale;48;55;0
+2019;1;Tamponamento;80;114;0
+2019;1;Urto con ostacolo;38;47;0
+2019;1;Urto con veicolo in fermata o sosta;62;81;0
+2019;2;Altre cause;9;12;0
+2019;2;Fuoriuscita, sbandamento;63;68;0
+2019;2;Investimento pedone;113;131;0
+2019;2;Scontro frontale;10;17;0
+2019;2;Scontro frontale - laterale;195;283;0
+2019;2;Scontro laterale;59;75;0
+2019;2;Tamponamento;62;90;0
+2019;2;Urto con ostacolo;47;53;1
+2019;2;Urto con veicolo in fermata o sosta;50;60;0
+2019;3;Altre cause;9;9;0
+2019;3;Fuoriuscita, sbandamento;82;89;1
+2019;3;Investimento pedone;140;165;0
+2019;3;Scontro frontale;14;22;0
+2019;3;Scontro frontale - laterale;245;336;1
+2019;3;Scontro laterale;76;83;0
+2019;3;Tamponamento;88;115;0
+2019;3;Urto con ostacolo;40;43;0
+2019;3;Urto con veicolo in fermata o sosta;81;103;0
+2019;4;Altre cause;5;5;0
+2019;4;Fuoriuscita, sbandamento;76;82;0
+2019;4;Investimento pedone;97;108;3
+2019;4;Scontro frontale;21;26;0
+2019;4;Scontro frontale - laterale;250;356;1
+2019;4;Scontro laterale;85;101;0
+2019;4;Tamponamento;57;94;0
+2019;4;Urto con ostacolo;52;63;0
+2019;4;Urto con veicolo in fermata o sosta;59;73;0
+2019;5;Altre cause;4;4;0
+2019;5;Fuoriuscita, sbandamento;91;97;0
+2019;5;Investimento pedone;113;128;2
+2019;5;Scontro frontale;16;19;0
+2019;5;Scontro frontale - laterale;237;359;0
+2019;5;Scontro laterale;102;123;0
+2019;5;Tamponamento;86;123;0
+2019;5;Urto con ostacolo;47;52;1
+2019;5;Urto con veicolo in fermata o sosta;69;85;0
+2019;6;Altre cause;3;3;0
+2019;6;Fuoriuscita, sbandamento;79;90;1
+2019;6;Investimento pedone;90;111;0
+2019;6;Scontro frontale;8;12;0
+2019;6;Scontro frontale - laterale;238;346;2
+2019;6;Scontro laterale;94;118;0
+2019;6;Tamponamento;95;146;0
+2019;6;Urto con ostacolo;40;48;0
+2019;6;Urto con veicolo in fermata o sosta;62;72;0
+2019;7;Altre cause;5;5;0
+2019;7;Fuoriuscita, sbandamento;95;103;0
+2019;7;Investimento pedone;86;96;2
+2019;7;Scontro frontale;11;14;0
+2019;7;Scontro frontale - laterale;231;337;1
+2019;7;Scontro laterale;86;107;0
+2019;7;Tamponamento;67;91;0
+2019;7;Urto con ostacolo;49;57;2
+2019;7;Urto con veicolo in fermata o sosta;73;99;0
+2019;8;Altre cause;6;6;0
+2019;8;Fuoriuscita, sbandamento;48;52;0
+2019;8;Investimento pedone;44;49;1
+2019;8;Scontro frontale;8;12;0
+2019;8;Scontro frontale - laterale;120;161;0
+2019;8;Scontro laterale;36;42;0
+2019;8;Tamponamento;38;65;0
+2019;8;Urto con ostacolo;30;33;1
+2019;8;Urto con veicolo in fermata o sosta;33;39;0
+2019;9;Altre cause;2;2;0
+2019;9;Fuoriuscita, sbandamento;85;99;0
+2019;9;Investimento pedone;106;131;0
+2019;9;Scontro frontale;11;15;0
+2019;9;Scontro frontale - laterale;225;308;0
+2019;9;Scontro laterale;73;91;0
+2019;9;Tamponamento;79;119;0
+2019;9;Urto con ostacolo;37;44;0
+2019;9;Urto con veicolo in fermata o sosta;72;99;0
+2019;10;Altre cause;2;2;0
+2019;10;Fuoriuscita, sbandamento;107;112;0
+2019;10;Investimento pedone;136;165;1
+2019;10;Scontro frontale;16;28;0
+2019;10;Scontro frontale - laterale;252;361;1
+2019;10;Scontro laterale;82;92;0
+2019;10;Tamponamento;75;110;0
+2019;10;Urto con ostacolo;60;67;0
+2019;10;Urto con veicolo in fermata o sosta;71;93;0
+2019;11;Altre cause;5;5;0
+2019;11;Fuoriuscita, sbandamento;94;96;0
+2019;11;Investimento pedone;190;221;1
+2019;11;Scontro frontale;8;8;0
+2019;11;Scontro frontale - laterale;198;287;3
+2019;11;Scontro laterale;70;80;0
+2019;11;Tamponamento;65;98;0
+2019;11;Urto con ostacolo;61;72;1
+2019;11;Urto con veicolo in fermata o sosta;62;72;0
+2019;12;Altre cause;8;8;0
+2019;12;Fuoriuscita, sbandamento;74;76;0
+2019;12;Investimento pedone;126;139;1
+2019;12;Scontro frontale;15;25;0
+2019;12;Scontro frontale - laterale;188;297;2
+2019;12;Scontro laterale;56;71;0
+2019;12;Tamponamento;53;78;0
+2019;12;Urto con ostacolo;62;75;0
+2019;12;Urto con veicolo in fermata o sosta;51;75;0
+2020;1;Altre cause;6;7;0
+2020;1;Fuoriuscita, sbandamento;63;68;0
+2020;1;Investimento pedone;115;122;2
+2020;1;Scontro frontale;8;9;0
+2020;1;Scontro frontale - laterale;163;224;0
+2020;1;Scontro laterale;37;43;0
+2020;1;Tamponamento;55;94;0
+2020;1;Urto con ostacolo;44;52;1
+2020;1;Urto con veicolo in fermata o sosta;44;59;1
+2020;2;Altre cause;2;2;0
+2020;2;Fuoriuscita, sbandamento;64;69;0
+2020;2;Investimento pedone;103;121;2
+2020;2;Scontro frontale;10;11;0
+2020;2;Scontro frontale - laterale;174;239;2
+2020;2;Scontro laterale;52;59;0
+2020;2;Tamponamento;47;66;0
+2020;2;Urto con ostacolo;29;32;0
+2020;2;Urto con veicolo in fermata o sosta;51;61;0
+2020;3;Altre cause;5;4;1
+2020;3;Fuoriuscita, sbandamento;17;18;1
+2020;3;Investimento pedone;25;26;0
+2020;3;Scontro frontale;8;10;0
+2020;3;Scontro frontale - laterale;60;81;1
+2020;3;Scontro laterale;23;27;0
+2020;3;Tamponamento;23;42;0
+2020;3;Urto con ostacolo;14;15;0
+2020;3;Urto con veicolo in fermata o sosta;24;33;0
+2020;4;Fuoriuscita, sbandamento;14;14;0
+2020;4;Investimento pedone;8;9;0
+2020;4;Scontro frontale;3;3;0
+2020;4;Scontro frontale - laterale;35;44;0
+2020;4;Scontro laterale;4;5;0
+2020;4;Tamponamento;10;14;0
+2020;4;Urto con ostacolo;6;8;0
+2020;4;Urto con veicolo in fermata o sosta;7;10;0
+2020;5;Fuoriuscita, sbandamento;58;66;0
+2020;5;Investimento pedone;33;36;0
+2020;5;Scontro frontale;10;18;0
+2020;5;Scontro frontale - laterale;97;131;0
+2020;5;Scontro laterale;41;45;1
+2020;5;Tamponamento;24;36;1
+2020;5;Urto con ostacolo;33;33;0
+2020;5;Urto con veicolo in fermata o sosta;42;48;0
+2020;6;Altre cause;1;1;0
+2020;6;Fuoriuscita, sbandamento;70;73;1
+2020;6;Investimento pedone;54;61;2
+2020;6;Scontro frontale;7;11;0
+2020;6;Scontro frontale - laterale;178;218;0
+2020;6;Scontro laterale;67;81;0
+2020;6;Tamponamento;39;50;0
+2020;6;Urto con ostacolo;47;54;0
+2020;6;Urto con veicolo in fermata o sosta;50;59;0
+2020;7;Altre cause;1;1;0
+2020;7;Fuoriuscita, sbandamento;97;106;0
+2020;7;Investimento pedone;62;69;1
+2020;7;Scontro frontale;9;11;0
+2020;7;Scontro frontale - laterale;189;262;1
+2020;7;Scontro laterale;57;63;0
+2020;7;Tamponamento;45;58;0
+2020;7;Urto con ostacolo;57;68;0
+2020;7;Urto con veicolo in fermata o sosta;64;78;0
+2020;8;Altre cause;2;5;0
+2020;8;Fuoriuscita, sbandamento;45;46;0
+2020;8;Investimento pedone;27;29;1
+2020;8;Scontro frontale;6;7;0
+2020;8;Scontro frontale - laterale;127;195;0
+2020;8;Scontro laterale;38;42;0
+2020;8;Tamponamento;32;45;0
+2020;8;Urto con ostacolo;34;40;0
+2020;8;Urto con veicolo in fermata o sosta;46;55;0
+2020;9;Altre cause;6;6;0
+2020;9;Fuoriuscita, sbandamento;98;103;0
+2020;9;Investimento pedone;85;100;1
+2020;9;Scontro frontale;9;11;0
+2020;9;Scontro frontale - laterale;223;311;0
+2020;9;Scontro laterale;82;98;0
+2020;9;Tamponamento;71;104;0
+2020;9;Urto con ostacolo;63;66;0
+2020;9;Urto con veicolo in fermata o sosta;50;61;0
+2020;10;Altre cause;2;2;0
+2020;10;Fuoriuscita, sbandamento;113;123;0
+2020;10;Investimento pedone;89;106;0
+2020;10;Scontro frontale;8;11;0
+2020;10;Scontro frontale - laterale;204;268;0
+2020;10;Scontro laterale;47;50;0
+2020;10;Tamponamento;75;110;0
+2020;10;Urto con ostacolo;62;61;2
+2020;10;Urto con veicolo in fermata o sosta;51;57;1
+2020;11;Altre cause;3;3;0
+2020;11;Fuoriuscita, sbandamento;50;51;0
+2020;11;Investimento pedone;44;50;1
+2020;11;Scontro frontale;6;9;0
+2020;11;Scontro frontale - laterale;119;160;0
+2020;11;Scontro laterale;48;50;0
+2020;11;Tamponamento;35;48;0
+2020;11;Urto con ostacolo;25;27;0
+2020;11;Urto con veicolo in fermata o sosta;32;38;0
+2020;12;Altre cause;2;2;0
+2020;12;Fuoriuscita, sbandamento;63;67;0
+2020;12;Investimento pedone;95;103;4
+2020;12;Scontro frontale;8;9;0
+2020;12;Scontro frontale - laterale;108;146;1
+2020;12;Scontro laterale;35;41;0
+2020;12;Tamponamento;41;59;0
+2020;12;Urto con ostacolo;35;39;0
+2020;12;Urto con veicolo in fermata o sosta;25;29;0
+2021;1;Altre cause;2;2;0
+2021;1;Fuoriuscita, sbandamento;42;43;1
+2021;1;Investimento pedone;72;78;0
+2021;1;Scontro frontale;7;10;0
+2021;1;Scontro frontale-laterale;115;154;0
+2021;1;Scontro laterale;32;41;0
+2021;1;Tamponamento;29;38;0
+2021;1;Urto con ostacolo;24;25;0
+2021;1;Urto con veicolo in fermata o sosta;30;39;0
+2021;2;Altre cause;4;4;0
+2021;2;Fuoriuscita, sbandamento;52;56;0
+2021;2;Investimento pedone;59;66;0
+2021;2;Scontro frontale;6;6;0
+2021;2;Scontro frontale-laterale;144;198;0
+2021;2;Scontro laterale;58;71;0
+2021;2;Tamponamento;52;73;0
+2021;2;Urto con ostacolo;38;41;0
+2021;2;Urto con veicolo in fermata o sosta;50;56;0
+2021;3;Altre cause;2;2;0
+2021;3;Fuoriuscita, sbandamento;68;68;1
+2021;3;Investimento pedone;61;67;2
+2021;3;Scontro frontale;2;2;0
+2021;3;Scontro frontale-laterale;155;208;0
+2021;3;Scontro laterale;54;59;0
+2021;3;Tamponamento;50;68;0
+2021;3;Urto con ostacolo;31;33;0
+2021;3;Urto con veicolo in fermata o sosta;60;69;0
+2021;4;Altre cause;2;2;0
+2021;4;Fuoriuscita, sbandamento;78;81;0
+2021;4;Investimento pedone;68;75;0
+2021;4;Scontro frontale;12;18;0
+2021;4;Scontro frontale-laterale;172;214;0
+2021;4;Scontro laterale;60;71;0
+2021;4;Tamponamento;60;84;0
+2021;4;Urto con ostacolo;33;36;0
+2021;4;Urto con veicolo in fermata o sosta;44;52;0
+2021;5;Altre cause;7;7;0
+2021;5;Fuoriuscita, sbandamento;104;106;0
+2021;5;Investimento pedone;84;92;1
+2021;5;Scontro frontale;11;14;0
+2021;5;Scontro frontale-laterale;247;322;2
+2021;5;Scontro laterale;79;98;0
+2021;5;Tamponamento;71;102;0
+2021;5;Urto con ostacolo;63;70;2
+2021;5;Urto con veicolo in fermata o sosta;67;75;1
+2021;6;Altre cause;4;4;0
+2021;6;Fuoriuscita, sbandamento;111;117;0
+2021;6;Investimento pedone;74;86;0
+2021;6;Scontro frontale;18;26;0
+2021;6;Scontro frontale-laterale;238;308;1
+2021;6;Scontro laterale;106;123;0
+2021;6;Tamponamento;59;80;0
+2021;6;Urto con ostacolo;86;93;1
+2021;6;Urto con veicolo in fermata o sosta;65;73;0
+2021;7;Altre cause;6;10;0
+2021;7;Fuoriuscita, sbandamento;94;108;0
+2021;7;Investimento pedone;72;85;0
+2021;7;Scontro frontale;19;29;0
+2021;7;Scontro frontale-laterale;214;299;1
+2021;7;Scontro laterale;81;93;0
+2021;7;Tamponamento;75;105;0
+2021;7;Urto con ostacolo;55;59;0
+2021;7;Urto con veicolo in fermata o sosta;64;69;0
+2021;8;Altre cause;3;3;0
+2021;8;Fuoriuscita, sbandamento;75;79;0
+2021;8;Investimento pedone;36;42;1
+2021;8;Scontro frontale;11;15;0
+2021;8;Scontro frontale-laterale;148;224;0
+2021;8;Scontro laterale;38;45;1
+2021;8;Tamponamento;35;48;0
+2021;8;Urto con ostacolo;32;34;1
+2021;8;Urto con veicolo in fermata o sosta;32;36;0
+2021;9;Altre cause;2;3;0
+2021;9;Fuoriuscita, sbandamento;126;131;1
+2021;9;Investimento pedone;88;105;1
+2021;9;Scontro frontale;15;21;0
+2021;9;Scontro frontale-laterale;268;400;0
+2021;9;Scontro laterale;70;84;0
+2021;9;Tamponamento;62;90;0
+2021;9;Urto con ostacolo;64;77;2
+2021;9;Urto con veicolo in fermata o sosta;66;77;0
+2021;10;Altre cause;4;4;0
+2021;10;Fuoriuscita, sbandamento;130;137;2
+2021;10;Investimento pedone;92;107;1
+2021;10;Scontro frontale;13;18;0
+2021;10;Scontro frontale-laterale;311;418;2
+2021;10;Scontro laterale;77;88;0
+2021;10;Tamponamento;59;84;0
+2021;10;Urto con ostacolo;76;94;1
+2021;10;Urto con veicolo in fermata o sosta;66;86;0
+2021;11;Altre cause;5;8;0
+2021;11;Fuoriuscita, sbandamento;81;87;0
+2021;11;Investimento pedone;128;149;2
+2021;11;Scontro frontale;16;25;1
+2021;11;Scontro frontale-laterale;244;320;1
+2021;11;Scontro laterale;60;68;0
+2021;11;Tamponamento;58;79;0
+2021;11;Urto con ostacolo;63;78;0
+2021;11;Urto con veicolo in fermata o sosta;65;87;0
+2021;12;Altre cause;3;3;0
+2021;12;Fuoriuscita, sbandamento;97;105;0
+2021;12;Investimento pedone;94;103;1
+2021;12;Scontro frontale;10;11;0
+2021;12;Scontro frontale-laterale;186;264;0
+2021;12;Scontro laterale;45;53;0
+2021;12;Tamponamento;38;46;0
+2021;12;Urto con ostacolo;53;62;0
+2021;12;Urto con veicolo in fermata o sosta;39;57;0
+2022;1;Altre cause;1;1;0
+2022;1;Fuoriuscita, sbandamento;64;70;0
+2022;1;Investimento pedone;77;89;2
+2022;1;Scontro frontale;9;13;0
+2022;1;Scontro frontale-laterale;189;282;1
+2022;1;Scontro laterale;50;53;0
+2022;1;Tamponamento;63;97;0
+2022;1;Urto con ostacolo;39;43;0
+2022;1;Urto con veicolo in fermata o sosta;29;33;0
+2022;2;Altre cause;1;1;0
+2022;2;Fuoriuscita, sbandamento;84;87;0
+2022;2;Investimento pedone;80;93;0
+2022;2;Scontro frontale;8;11;0
+2022;2;Scontro frontale-laterale;176;236;0
+2022;2;Scontro laterale;64;70;0
+2022;2;Tamponamento;45;61;0
+2022;2;Urto con ostacolo;54;66;0
+2022;2;Urto con veicolo in fermata o sosta;50;62;0
+2022;3;Altre cause;4;4;0
+2022;3;Fuoriuscita, sbandamento;83;85;1
+2022;3;Investimento pedone;77;85;2
+2022;3;Scontro frontale;9;15;0
+2022;3;Scontro frontale-laterale;227;311;2
+2022;3;Scontro laterale;83;95;0
+2022;3;Tamponamento;39;48;0
+2022;3;Urto con ostacolo;34;37;0
+2022;3;Urto con veicolo in fermata o sosta;59;75;1
+2022;4;Altre cause;3;3;0
+2022;4;Fuoriuscita, sbandamento;97;101;0
+2022;4;Investimento pedone;85;98;1
+2022;4;Scontro frontale;11;17;0
+2022;4;Scontro frontale-laterale;229;325;1
+2022;4;Scontro laterale;66;79;0
+2022;4;Tamponamento;55;77;0
+2022;4;Urto con ostacolo;47;54;0
+2022;4;Urto con veicolo in fermata o sosta;55;61;0
+2022;5;Altre cause;3;3;0
+2022;5;Fuoriuscita, sbandamento;123;131;0
+2022;5;Investimento pedone;111;125;2
